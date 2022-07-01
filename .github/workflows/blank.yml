@@ -25,7 +25,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Download a file
         uses: carlosperate/download-file-action@v1
-        id: download-file
         with:
           file-url: 'https://thesharing.space/feed/mp3/'
           file-name: 'thesharingspace.rss'
