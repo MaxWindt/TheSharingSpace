@@ -23,14 +23,12 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
-
-      # Runs a single command using the runners shell
       - name: Download a file
-        run: curl https://thesharing.space/feed/mp3/ -o /
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+        uses: carlosperate/download-file-action@v1
+        id: download-file
+        with:
+          file-url: 'https://thesharing.space/feed/mp3/'
+          file-name: 'thesharingspace.rss'
+          location: './podcast_feed'
+      - name: Print the file path (new-folder-to-be-created/new_filename.tar.gz)
+        run: echo "The file was downloaded to ${{ steps.download-file.outputs.file-path }}"
