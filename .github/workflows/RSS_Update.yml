@@ -35,6 +35,5 @@ jobs:
       - name: Publish generated content to GitHub Pages
         uses: tsunematsu21/actions-publish-gh-pages@v1.0.2
         with:
-          dir: ${{ github.workspace }}
           branch: gh-pages
           token: ${{ secrets.PUSH_FILE_TOKEN }}
