@@ -25,7 +25,8 @@ jobs:
       - name: Download a file
         uses: carlosperate/download-file-action@v1
         with:
-          file-url: 'https://thesharing.space/feed/mp3/'
+        # file-url: 'https://thesharing.space/feed/mp3/'
+          file-url: 'https://maxwindt.github.io/TheSharingSpace/feed.rss'
           file-name: 'feed.rss'
           location: '.'
       - name: Print the file path (new-folder-to-be-created/new_filename.tar.gz)
@@ -41,7 +42,7 @@ jobs:
           token: ${{ secrets.PUSH_FILE_TOKEN }}
           source_file_path: 'feed.rss'
           destination_repo: 'MaxWindt/TheSharingSpace'
-          destination_folder: '/'
+          destination_folder: '/test/'
           target_branch: 'gh-pages'
           author: 'MaxWindt'
           author_email: 'plocket@example.com'
