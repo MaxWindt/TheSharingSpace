@@ -26,8 +26,8 @@ jobs:
         uses: carlosperate/download-file-action@v1
         with:
           file-url: 'https://thesharing.space/feed/mp3/'
-          file-name: 'thesharingspace.rss'
-          location: './podcast_feed'
+          file-name: 'feed.rss'
+          location: '.'
       - name: Print the file path (new-folder-to-be-created/new_filename.tar.gz)
         run: echo "The file was downloaded to ${{ steps.download-file.outputs.file-path }}"
       - run: |
@@ -39,9 +39,9 @@ jobs:
         uses: plocket/push-generated-file@master
         with:
           token: ${{ secrets.PUSH_FILE_TOKEN }}
-          source_file_path: 'output'
-          destination_repo: 'plocket/some-destination-repository'
-          destination_folder: 'folder/in/repository'
-          target_branch: 'feature-branch'
-          author: 'plocket'
+          source_file_path: 'feed.rss'
+          destination_repo: 'MaxWindt/TheSharingSpace'
+          destination_folder: '/'
+          target_branch: 'gh-pages'
+          author: 'MaxWindt'
           author_email: 'plocket@example.com'
