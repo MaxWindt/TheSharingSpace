@@ -1,0 +1,47 @@
+# This is a basic workflow to help you get started with Actions
+
+name: RSS_Update
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: Download a file
+        uses: carlosperate/download-file-action@v1
+        with:
+          file-url: 'https://thesharing.space/feed/mp3/'
+          file-name: 'thesharingspace.rss'
+          location: './podcast_feed'
+      - name: Print the file path (new-folder-to-be-created/new_filename.tar.gz)
+        run: echo "The file was downloaded to ${{ steps.download-file.outputs.file-path }}"
+      - run: |
+          ls
+      - uses: actions/checkout@v2
+      - name: Create output folder and files
+        run:  sh ./generate_files.sh
+      - name: Push files
+        uses: plocket/push-generated-file@master
+        with:
+          token: ${{ secrets.PUSH_FILE_TOKEN }}
+          source_file_path: 'output'
+          destination_repo: 'plocket/some-destination-repository'
+          destination_folder: 'folder/in/repository'
+          target_branch: 'feature-branch'
+          author: 'plocket'
+          author_email: 'plocket@example.com'
