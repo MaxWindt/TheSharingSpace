@@ -24,11 +24,11 @@ jobs:
     steps:
       - name: Download a file
         uses: carlosperate/download-file-action@v1
-        id: download-file
         with:
         # file-url: 'https://thesharing.space/feed/mp3/'
           file-url: 'https://maxwindt.github.io/TheSharingSpace/feed.rss'
-          file-name: 'feed.rss'
+          file-name: 'mp3.rss'
+          location: 'feed/.'
       - name: Print the file path (new-folder-to-be-created/new_filename.tar.gz)
         run: echo "The file was downloaded to ${{ steps.download-file.outputs.file-path }}"
       - run: |
@@ -36,5 +36,6 @@ jobs:
       - name: Publish generated content to GitHub Pages
         uses: tsunematsu21/actions-publish-gh-pages@v1.0.2
         with:
+          dir: ${{ github.workspace }}
           branch: gh-pages
           token: ${{ secrets.PUSH_FILE_TOKEN }}
