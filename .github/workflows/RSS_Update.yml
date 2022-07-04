@@ -28,7 +28,6 @@ jobs:
         # file-url: 'https://thesharing.space/feed/mp3/'
           file-url: 'https://maxwindt.github.io/TheSharingSpace/feed.rss'
           file-name: 'feed.rss'
-          location: '/.'
       - name: Print the file path (new-folder-to-be-created/new_filename.tar.gz)
         run: echo "The file was downloaded to ${{ steps.download-file.outputs.file-path }}"
       - run: |
