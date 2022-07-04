@@ -33,16 +33,9 @@ jobs:
         run: echo "The file was downloaded to ${{ steps.download-file.outputs.file-path }}"
       - run: |
           ls
-      - uses: actions/checkout@v2
-      - name: Create output folder and files
-        run:  sh ./generate_files.sh
-      - name: Push files
-        uses: plocket/push-generated-file@master
+      - name: Publish generated content to GitHub Pages
+        uses: tsunematsu21/actions-publish-gh-pages@v1.0.2
         with:
+          dir: dist
+          branch: gh-pages
           token: ${{ secrets.PUSH_FILE_TOKEN }}
-          source_file_path: 'feed.rss'
-          destination_repo: 'MaxWindt/TheSharingSpace'
-          destination_folder: '/test/'
-          target_branch: 'gh-pages'
-          author: 'MaxWindt'
-          author_email: 'plocket@example.com'
