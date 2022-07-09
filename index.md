@@ -34,4 +34,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Feed
+https://maxwindt.github.io/TheSharingSpace/feed/mp3.rss
+
+Original root link
+https://thesharing.space/podlove/file/[\d]+/s/feed/c/mp3/
+New root link
+https://maxwindt.github.io/TheSharingSpace/episodes/
+
