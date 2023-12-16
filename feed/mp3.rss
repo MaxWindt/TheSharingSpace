@@ -7,14 +7,14 @@
 
 <channel>
 	<title>The Sharing Space</title>
-	<link>https://thesharing.space</link>
+	<link>https://thesharingspace.de</link>
 	<description><![CDATA[Ein Ort für bewusstes Hinhören, nach Außen sowie Innen | A place for conscious listening, outside as well as inside | thesharing.space]]></description>
-	<lastBuildDate>Thu, 23 Jun 2022 10:27:42 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Dec 2023 12:26:10 +0000</lastBuildDate>
 	
-<image><url>https://i0.wp.com/thesharing.space/wp-content/uploads/The-Sharing-Space-Podcast-Logo.jpg</url><title>The Sharing Space</title><link>https://thesharing.space</link></image>
-<atom:link rel="self" type="application/rss+xml" title="The Sharing Space (MP3 Feed)" href="https://thesharing.space/feed/mp3/" />
-	<atom:link rel="first" href="https://thesharing.space/feed/mp3/" />
-	<language>de-DE</language><site xmlns="com-wordpress:feed-additions:1">176994415</site><generator>Podlove Podcast Publisher v3.8.1</generator>
+<image><url>https://i0.wp.com/thesharing.space/wp-content/uploads/The-Sharing-Space-Podcast-Logo.jpg</url><title>The Sharing Space</title><link>https://thesharingspace.de</link></image>
+<atom:link rel="self" type="application/rss+xml" title="The Sharing Space (MP3 Feed)" href="https://thesharingspace.de/feed/mp3/" />
+	<atom:link rel="first" href="https://thesharingspace.de/feed/mp3/" />
+	<language>de-DE</language><site xmlns="com-wordpress:feed-additions:1">176994415</site><generator>Podlove Podcast Publisher v4.0.9</generator>
 	<copyright></copyright>
 	<itunes:author>Max Schwindt</itunes:author>
 	<itunes:type>episodic</itunes:type>
@@ -30,6 +30,7 @@ Es gibt viele Fragen aber ich lerne vor allem das Zuhören.
 
 Ich bin Max Schwindt und das ist TheSharing.space]]></itunes:summary>
 <itunes:category text="Society &amp; Culture"><itunes:category text="Personal Journals"></itunes:category></itunes:category>
+
 	
 	<itunes:owner>
 		<itunes:name>Max Schwindt</itunes:name>
@@ -45,8 +46,57 @@ Ich bin Max Schwindt und das ist TheSharing.space]]></itunes:summary>
 
 	
 	<item>
+        <title>Das Leben als Klangreise - Rainerklang</title>
+		<link>https://thesharingspace.de/das-leben-als-klangreise-rainerklang/</link>
+		<pubDate>Sat, 16 Dec 2023 08:29:55 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2023-12-15t09:31:53+00:00-0d73c4b394f0a7f</guid>
+    	<description><![CDATA[Rainer (oder auch Rainerklang) ist bekannt ist als der Gründer vom Klangraum hier in Eberswalde.
+Er bietet dort Sinnesreisen, Klangreisen, Massagen und Männertrainings an. Daneben ist er gelernter Bäcker und Handwerker und hat viele Jahre seines Lebens im Ausland verbracht.
+Er ist viel gereist, hat viel gelernt und deshalb sprechen wir viel über das Reisen, über die Art wie er durchs Leben gegangen ist und auch darüber, wie er jetzt gerade mit den aktuellen Unsicherheiten umgeht. Außerdem sprechen wir darüber warum er nach den langen Reisen sich doch entschieden hat, sich an einem Ort zu verwurzeln.
+
+
+Website: rainerklang.de
+Tagtraum-Klangreise: https://youtu.be/zjiFwxX5GeM]]></description><post-id xmlns="com-wordpress:feed-additions:1">1131</post-id>
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/das-leben-als-klangreise-rainerklang/#" />
+		
+<enclosure url="https://thesharingspace.de/podlove/file/124/s/feed/c/mp3/podcast_thesharingspace_episode_31_rainerklang.mp3" length="46434847" type="audio/mpeg"/>
+
+		<itunes:duration>01:04:29</itunes:duration>
+		<itunes:author>Max Schwindt</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:episode>31</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[Rainer (oder auch Rainerklang) ist bekannt ist als der Gründer vom Klangraum hier in Eberswalde.
+Er bietet dort Sinnesreisen, Klangreisen, Massagen und Männertrainings an. Daneben ist er gelernter Bäcker und Handwerker und hat viele Jahre seines Lebens im Ausland verbracht.
+Er ist viel gereist, hat viel gelernt und deshalb sprechen wir viel über das Reisen, über die Art wie er durchs Leben gegangen ist und auch darüber, wie er jetzt gerade mit den aktuellen Unsicherheiten umgeht. Außerdem sprechen wir darüber warum er nach den langen Reisen sich doch entschieden hat, sich an einem Ort zu verwurzeln.
+
+
+Website: rainerklang.de
+Tagtraum-Klangreise: https://youtu.be/zjiFwxX5GeM]]></itunes:summary>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/photo_5469807801586013207_y-1.png"/>
+		<content:encoded><![CDATA[
+<p>Rainer (oder auch Rainerklang) ist bekannt ist als der Gründer vom Klangraum hier in Eberswalde.<br>Er bietet dort Sinnesreisen, Klangreisen, Massagen und Männertrainings an. Daneben ist er gelernter Bäcker und Handwerker und hat viele Jahre seines Lebens im Ausland verbracht.<br>Er ist viel gereist, hat viel gelernt und deshalb sprechen wir viel über das Reisen, über die Art wie er durchs Leben gegangen ist und auch darüber, wie er jetzt gerade mit den aktuellen Unsicherheiten umgeht. Außerdem sprechen wir darüber warum er nach den langen Reisen sich doch entschieden hat, sich an einem Ort zu verwurzeln.</p>
+
+
+
+<p>Website: <a href="http://rainerklang.de">rainerklang.de</a><br>Tagtraum-Klangreise: <a href="https://youtu.be/zjiFwxX5GeM">https://youtu.be/zjiFwxX5GeM</a></p>
+<p>Der Beitrag <a href="https://thesharingspace.de/das-leben-als-klangreise-rainerklang/">Das Leben als Klangreise &#8211; Rainerklang</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
+]]></content:encoded><psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <psc:chapter start="00:03:55.000" title="Wie Bist du zu dem geworden der du bist?"/>
+  <psc:chapter start="00:09:10.000" title="Was ist eine Reise f&#xFC;r dich?"/>
+  <psc:chapter start="00:12:26.000" title="Entwicklung der Klangreisen"/>
+  <psc:chapter start="00:23:18.000" title="Zur&#xFC;ckkommen nach der zweiten Reise"/>
+  <psc:chapter start="00:32:08.000" title="Best&#xE4;ndigkeit aufbauen"/>
+  <psc:chapter start="00:38:00.000" title="Umgang mit Unsicheiten in der Welt"/>
+  <psc:chapter start="00:46:08.000" title="Was braucht die Welt gerade?"/>
+  <psc:chapter start="00:49:18.000" title="Von Einsamkeit zu Netzwerken"/>
+  <psc:chapter start="00:59:01.000" title="Outro"/>
+</psc:chapters>
+		<itunes:season>3</itunes:season>	</item>
+	
+	<item>
         <title>Das Leben ist keine Reise, sondern eine Erinnerung - Nestor T. Kolee</title>
-		<link>https://thesharing.space/nestor-t-kolee/</link>
+		<link>https://thesharingspace.de/nestor-t-kolee/</link>
 		<pubDate>Thu, 09 Jun 2022 04:06:00 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2022-06-01t17:32:16+00:00-114f9f954edb2a8</guid>
     	<description><![CDATA[Kennst du diesen Moment bei dem du ein Buch in einem Schwung durchließt und dich am Ende fragst wer hat diese geniale Geschichte geschrieben? 
@@ -72,9 +122,9 @@ Außerdem kommt bald auch sein neues Werk Der Junge im Fluss raus das man sich b
 Newsletter + Kostenlose Kurzgeschichte: 
 
 https://nestorkolee.com/]]></description><post-id xmlns="com-wordpress:feed-additions:1">1080</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/nestor-t-kolee/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/nestor-t-kolee/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_thesharingspace_episode_30_Nestor_T._kolee.mp3" length="45677614" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/114/s/feed/c/mp3/podcast_thesharingspace_episode_30_Nestor_T._kolee.mp3" length="45677614" type="audio/mpeg"/>
 
 		<itunes:duration>01:03:26</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -105,9 +155,9 @@ Außerdem kommt bald auch sein neues Werk Der Junge im Fluss raus das man sich b
 Newsletter + Kostenlose Kurzgeschichte: 
 
 https://nestorkolee.com/]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/PSX_20220604_234816.jpg?fit=450%2C450&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/PSX_20220604_234816.jpg"/>
 		<content:encoded><![CDATA[
-<h2>Was passieren kann, wenn man seiner inneren Stimme lauscht</h2>
+<h2 class="wp-block-heading">Was passieren kann, wenn man seiner inneren Stimme lauscht</h2>
 
 
 
@@ -115,7 +165,7 @@ https://nestorkolee.com/]]></itunes:summary>
 
 
 
-<p>Und so war das bei mir damals als ich ein Buch von meiner Schwägerin geschenkt bekommen habe, großer Dank an dich nochmal Nina. Das Buch heißt <a href="https://www.dtv.de/buch/der-junge-der-auf-einem-esel-ritt-28302" target="_blank" rel="noreferrer noopener">Der Junge der auf einem Esel Ritt, das Leben ist keine Reise</a> von &#8222;<a href="https://www.dtv.de/autor/nestor-t.-kolee-8020" target="_blank" rel="noreferrer noopener">Nestor T. Kolee</a>&#8222;.&nbsp;</p>
+<p>Und so war das bei mir damals als ich ein Buch von meiner Schwägerin geschenkt bekommen habe, großer Dank an dich nochmal Nina. Das Buch heißt <a href="https://www.dtv.de/buch/der-junge-der-auf-einem-esel-ritt-28302" target="_blank" rel="noreferrer noopener">Der Junge der auf einem Esel Ritt, das Leben ist keine Reise</a> von &#8220;<a href="https://www.dtv.de/autor/nestor-t.-kolee-8020" target="_blank" rel="noreferrer noopener">Nestor T. Kolee</a>&#8220;.&nbsp;</p>
 
 
 
@@ -168,7 +218,7 @@ https://instagram.com/nestor.kolee?igshid=YmMyMTA2M2Y=
 
 
 <p>Mehr über mich: <a href="http://maxschwindt.de" target="_blank" rel="noreferrer noopener">maxschwindt.de</a></p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/nestor-t-kolee/">Das Leben ist keine Reise, sondern eine Erinnerung &#8211; Nestor T. Kolee</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/nestor-t-kolee/">Das Leben ist keine Reise, sondern eine Erinnerung &#8211; Nestor T. Kolee</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded><psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
   <psc:chapter start="00:01:58.206" title="Woher kam die Geschichte?"/>
   <psc:chapter start="00:08:27.167" title="Flow State"/>
@@ -183,7 +233,7 @@ https://instagram.com/nestor.kolee?igshid=YmMyMTA2M2Y=
 	
 	<item>
         <title>Vulnerability Opens Doors – Susanne Fest</title>
-		<link>https://thesharing.space/susanne-fest/</link>
+		<link>https://thesharingspace.de/susanne-fest/</link>
 		<pubDate>Sun, 23 Jan 2022 13:53:27 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2022-01-23t12:47:10+00:00-6c6b0263b796bb3</guid>
     	<description><![CDATA[Susanne was born in Germany and immigrated to the US in the early 80ies as a graduate student. An eagerness to explore different inner and outer landscapes, and a desire to understand how people are shaped by historical, cultural and familial environments, she first became a marriage and family therapist and then an academic, teaching in an individualized social science master’s program at Antioch University. She now lives on an island in the Pacific Northwest and works for Healing Circles Global, an organization committed to providing free social and emotional support to anyone, anywhere. 
@@ -229,9 +279,9 @@ https://www.thebowencenter.org/dr-bowen
 Herriet Lerner 
 
 https://www.harrietlerner.com/]]></description><post-id xmlns="com-wordpress:feed-additions:1">1041</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/susanne-fest/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/susanne-fest/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_thesharingspace_episode_29_Susanne.mp3" length="51604062" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/113/s/feed/c/mp3/podcast_thesharingspace_episode_29_Susanne.mp3" length="51604062" type="audio/mpeg"/>
 
 		<itunes:duration>01:11:40</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -282,14 +332,14 @@ https://www.thebowencenter.org/dr-bowen
 Herriet Lerner 
 
 https://www.harrietlerner.com/]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/PSX_20220123_141605.jpg?fit=958%2C958&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/PSX_20220123_141605.jpg"/>
 		<content:encoded><![CDATA[<a href="https://open.spotify.com/show/0TUJdQspKNqAVphoVzp5nn" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-spotify" style="font-size:13px;color:#FFFFFF"></i> Spotify</span></a>
 
 
 <a href="https://podcasts.apple.com/de/podcast/the-sharing-space/id1458014847" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-apple" style="font-size:13px;color:#FFFFFF"></i> Apple Podcasts</span></a>
 
 
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGVzaGFyaW5nc3BhY2UuZGUvZmVlZC9tcDM?sa=X&amp;ved=0CAMQ4aUDahcKEwiYj5jaiLrvAhUAAAAAHQAAAAAQBw" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a>
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGVzaGFyaW5nc3BhY2UuZGUvZmVlZC9tcDM?sa=X&#038;ved=0CAMQ4aUDahcKEwiYj5jaiLrvAhUAAAAAHQAAAAAQBw" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a>
 
 
 
@@ -348,13 +398,13 @@ https://www.harrietlerner.com/]]></itunes:summary>
 
 
 <p><a href="https://www.harrietlerner.com/">https://www.harrietlerner.com/</a></p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/susanne-fest/">Vulnerability Opens Doors – Susanne Fest</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/susanne-fest/">Vulnerability Opens Doors – Susanne Fest</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>3</itunes:season>	</item>
 	
 	<item>
         <title>Wie man durch eine Krise näher an seine Vision kommen kann - Lea Pielock</title>
-		<link>https://thesharing.space/lea-pielock/</link>
+		<link>https://thesharingspace.de/lea-pielock/</link>
 		<pubDate>Wed, 02 Jun 2021 19:10:13 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2021-06-03t14:34:32+00:00-9484d7f0a11f7f6</guid>
     	<description><![CDATA[Lea Pielock (lea-pielock.de) war passionierte Physiotherapeutin bis sie berufsunfähig wurde. In diesem Gespräch teilt sie mit uns wie sie diese Zeit erlebt und überwunden hat und nun den Weg zur ganzheitlichen selbständigen Heilerin gefunden hat.
@@ -367,9 +417,9 @@ Wenn du von Lea begleitet werden möchtest oder Fragen hast was Osteopathie und 
 https://www.lea-pielock.de/kontakt/
 
 Weitere Links zur Folge auf TheSharing.Space]]></description><post-id xmlns="com-wordpress:feed-additions:1">889</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/lea-pielock/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/lea-pielock/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_thesharingspace_episode_28_wie_man_durch_eine_krise_naeher_an_seine_vision_kommen_kann__lea_pielock.mp3" length="37282912" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/112/s/feed/c/mp3/podcast_thesharingspace_episode_28_wie_man_durch_eine_krise_naeher_an_seine_vision_kommen_kann__lea_pielock.mp3" length="37282912" type="audio/mpeg"/>
 
 		<itunes:duration>00:51:46</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -387,9 +437,9 @@ Wenn du von Lea begleitet werden möchtest oder Fragen hast was Osteopathie und 
 https://www.lea-pielock.de/kontakt/
 
 Weitere Links zur Folge auf TheSharing.Space]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/PSX_20210602_211923-scaled.jpg?fit=2560%2C2560&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/PSX_20210602_211923-scaled.jpg"/>
 		<content:encoded><![CDATA[
-<h4>Vertrauen, dass jeder Schritt der Richtige ist und nicht alleine gegangen werden muss</h4>
+<h4 class="wp-block-heading">Vertrauen, dass jeder Schritt der Richtige ist und nicht alleine gegangen werden muss</h4>
 
 
 
@@ -401,18 +451,18 @@ Weitere Links zur Folge auf TheSharing.Space]]></itunes:summary>
 
 
 
-<ul><li><a href="https://www.ecosia.org/search?q=Edgar+Tolle" target="_blank" rel="noreferrer noopener">Edgar Tolle&nbsp;</a></li><li><a href="https://www.ecosia.org/search?q=Joe+Dispenza" target="_blank" rel="noreferrer noopener">Joe Dispenser&nbsp;</a></li><li><a href="https://de.wikipedia.org/wiki/The_Rider" target="_blank" rel="noreferrer noopener">Film über Cowboy &#8222;The Rider&#8220;</a>&nbsp;</li><li><a href="https://www.scm-shop.de/hochsensible-im-beruf.html" target="_blank" rel="noreferrer noopener">Hochsensible im Beruf &#8211; Brigitte Schorr</a></li></ul>
+<ul><li><a href="https://www.ecosia.org/search?q=Edgar+Tolle" target="_blank" rel="noreferrer noopener">Edgar Tolle&nbsp;</a></li><li><a href="https://www.ecosia.org/search?q=Joe+Dispenza" target="_blank" rel="noreferrer noopener">Joe Dispenser&nbsp;</a></li><li><a href="https://de.wikipedia.org/wiki/The_Rider" target="_blank" rel="noreferrer noopener">Film über Cowboy &#8220;The Rider&#8221;</a>&nbsp;</li><li><a href="https://www.scm-shop.de/hochsensible-im-beruf.html" target="_blank" rel="noreferrer noopener">Hochsensible im Beruf &#8211; Brigitte Schorr</a></li></ul>
 
 
 
 <p></p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/lea-pielock/">Wie man durch eine Krise näher an seine Vision kommen kann &#8211; Lea Pielock</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/lea-pielock/">Wie man durch eine Krise näher an seine Vision kommen kann &#8211; Lea Pielock</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>3</itunes:season>	</item>
 	
 	<item>
         <title>The Meditative Clown - Philippe</title>
-		<link>https://thesharing.space/the-meditative-clown-philippe/</link>
+		<link>https://thesharingspace.de/the-meditative-clown-philippe/</link>
 		<pubDate>Thu, 18 Mar 2021 14:25:15 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2021-03-15t08:11:35+00:00-5724a25065f31a9</guid>
     	<description><![CDATA[The meditative clown
@@ -432,9 +482,9 @@ https://www.philocircus.com/
 https://www.facebook.com/PhiloCircus/
 https://www.instagram.com/philocircus/
 https://www.youtube.com/channel/UCqjMPNrbz8uJJfWXYbT9RIQ]]></description><post-id xmlns="com-wordpress:feed-additions:1">830</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/the-meditative-clown-philippe/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/the-meditative-clown-philippe/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_thesharingspace_episode_27_The_meditative_clown_Philippe.mp3" length="23922219" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/110/s/feed/c/mp3/podcast_thesharingspace_episode_27_The_meditative_clown_Philippe.mp3" length="23922219" type="audio/mpeg"/>
 
 		<itunes:duration>00:33:13</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -459,18 +509,18 @@ https://www.philocircus.com/
 https://www.facebook.com/PhiloCircus/
 https://www.instagram.com/philocircus/
 https://www.youtube.com/channel/UCqjMPNrbz8uJJfWXYbT9RIQ]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/PSX_20210206_140937.jpg?fit=516%2C516&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/PSX_20210206_140937.jpg"/>
 		<content:encoded><![CDATA[<a href="https://open.spotify.com/episode/6CrsRb9iVhjjuvcavQj12S?si=85021fcb1ab64ece" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-spotify" style="font-size:13px;color:#FFFFFF"></i> Spotify</span></a>
 
 
 <a href="https://podcasts.apple.com/de/podcast/the-meditative-clown-philippe/id1458014847?i=1000513120606" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-apple" style="font-size:13px;color:#FFFFFF"></i> Apple Podcasts</span></a>
 
 
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGVzaGFyaW5nc3BhY2UuZGUvZmVlZC9tcDM?sa=X&amp;ved=0CAMQ4aUDahcKEwiYj5jaiLrvAhUAAAAAHQAAAAAQBw" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a>
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGVzaGFyaW5nc3BhY2UuZGUvZmVlZC9tcDM?sa=X&#038;ved=0CAMQ4aUDahcKEwiYj5jaiLrvAhUAAAAAHQAAAAAQBw" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a>
 
 
 
-<h2>How beeing a clown demands you to be present</h2>
+<h2 class="wp-block-heading">How beeing a clown demands you to be present</h2>
 
 
 
@@ -497,13 +547,13 @@ https://www.youtube.com/channel/UCqjMPNrbz8uJJfWXYbT9RIQ]]></itunes:summary>
 
 
 <p>10 day silent meditation retreat: <br><a href="https://www.dhamma.org">https://www.dhamma.org</a></p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/the-meditative-clown-philippe/">The Meditative Clown &#8211; Philippe</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/the-meditative-clown-philippe/">The Meditative Clown &#8211; Philippe</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>3</itunes:season>	</item>
 	
 	<item>
         <title>Die Suche nach der eigenen Stimme - Max Wind</title>
-		<link>https://thesharing.space/die-suche-nach-der-eigenen-stimme-max-wind/</link>
+		<link>https://thesharingspace.de/die-suche-nach-der-eigenen-stimme-max-wind/</link>
 		<pubDate>Sat, 06 Feb 2021 13:33:03 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2021-02-05t14:48:58+00:00-be650950ec68b8d</guid>
     	<description><![CDATA[In dieser Folge erzähle ich über den Prozess der mich zu meiner Stimme, meiner Vision brachte. Dabei werde ich von meiner Freundin interviewt die einen großen Teil meines Weges begleitet hat. Wir sprechen über:
@@ -515,9 +565,9 @@ https://www.youtube.com/channel/UCqjMPNrbz8uJJfWXYbT9RIQ]]></itunes:summary>
     Was ich gelernt habe
 
 Danke an alle die mich auf diesem Weg unterstützen]]></description><post-id xmlns="com-wordpress:feed-additions:1">798</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/die-suche-nach-der-eigenen-stimme-max-wind/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/die-suche-nach-der-eigenen-stimme-max-wind/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_thesharingspace_episode_26_Solofolge_Max.mp3" length="30837354" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/109/s/feed/c/mp3/podcast_thesharingspace_episode_26_Solofolge_Max.mp3" length="30837354" type="audio/mpeg"/>
 
 		<itunes:duration>00:42:49</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -534,9 +584,9 @@ Danke an alle die mich auf diesem Weg unterstützen]]></description><post-id xml
     Was ich gelernt habe
 
 Danke an alle die mich auf diesem Weg unterstützen]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/PSX_20210206_140715.jpg?fit=960%2C960&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/PSX_20210206_140715.jpg"/>
 		<content:encoded><![CDATA[
-<h3>Was entstehen kann wenn man geduldig nach Antworten sucht</h3>
+<h3 class="wp-block-heading">Was entstehen kann wenn man geduldig nach Antworten sucht</h3>
 
 
 
@@ -556,20 +606,20 @@ Danke an alle die mich auf diesem Weg unterstützen]]></itunes:summary>
 
 
 
-<p class="has-text-align-center"><a href="https://thesharing.space" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-spotify" style="font-size:13px;color:#FFFFFF"></i> Spotify</span></a> <a href="https://podcasts.apple.com/us/podcast/die-suche-nach-der-eigenen-stimme-max-wind/id1458014847?i=1000507997855" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-apple" style="font-size:13px;color:#FFFFFF"></i> Apple Podcasts</span></a> <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb3VsLXNwYWNlLm5ldC9mZWVkL21wMy8" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a> </p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/die-suche-nach-der-eigenen-stimme-max-wind/">Die Suche nach der eigenen Stimme &#8211; Max Wind</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p class="has-text-align-center"><a href="https://thesharingspace.de" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-spotify" style="font-size:13px;color:#FFFFFF"></i> Spotify</span></a> <a href="https://podcasts.apple.com/us/podcast/die-suche-nach-der-eigenen-stimme-max-wind/id1458014847?i=1000507997855" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-apple" style="font-size:13px;color:#FFFFFF"></i> Apple Podcasts</span></a> <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb3VsLXNwYWNlLm5ldC9mZWVkL21wMy8" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a> </p>
+<p>Der Beitrag <a href="https://thesharingspace.de/die-suche-nach-der-eigenen-stimme-max-wind/">Die Suche nach der eigenen Stimme &#8211; Max Wind</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>3</itunes:season>	</item>
 	
 	<item>
         <title>UPDATE - The Sharing Space - A Place To Listen</title>
-		<link>https://thesharing.space/update-the-sharing-space-a-place-to-listen/</link>
+		<link>https://thesharingspace.de/update-the-sharing-space-a-place-to-listen/</link>
 		<pubDate>Sun, 31 Jan 2021 19:39:27 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2021-01-31t19:12:55+00:00-e88361c975850df</guid>
     	<description><![CDATA[Dieser Podcast hat schon einige Veränderungen durchgemacht, vom "Gehirnmus eines Mittzwanzigers" zu "Soul Space" nun ist es Zeit für "The Sharing Space". Heute erfährst du die Hintergründe.]]></description><post-id xmlns="com-wordpress:feed-additions:1">794</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/update-the-sharing-space-a-place-to-listen/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/update-the-sharing-space-a-place-to-listen/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_soul_space_episode_24_TheSharingSpace_Teaser.mp3" length="3100015" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/107/s/feed/c/mp3/podcast_soul_space_episode_24_TheSharingSpace_Teaser.mp3" length="3100015" type="audio/mpeg"/>
 
 		<itunes:duration>00:04:18</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -578,20 +628,20 @@ Danke an alle die mich auf diesem Weg unterstützen]]></itunes:summary>
 		<itunes:episode>24</itunes:episode>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:summary><![CDATA[Dieser Podcast hat schon einige Veränderungen durchgemacht, vom &quot;Gehirnmus eines Mittzwanzigers&quot; zu &quot;Soul Space&quot; nun ist es Zeit für &quot;The Sharing Space&quot;. Heute erfährst du die Hintergründe.]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/logo_SharingSpace-scaled.jpg?fit=2560%2C2560&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/logo_SharingSpace-scaled.jpg"/>
 		<content:encoded><![CDATA[
-<h4>Alles ist in ständiger Veränderung</h4>
+<h4 class="wp-block-heading">Alles ist in ständiger Veränderung</h4>
 
 
 
-<p>Dieser Podcast hat schon einige Veränderungen durchgemacht, vom &#8222;Gehirnmus eines Mittzwanzigers&#8220; zu &#8222;Soul Space&#8220; nun ist es Zeit für &#8222;The Sharing Space&#8220;. Heute erfährst du die Hintergründe.</p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/update-the-sharing-space-a-place-to-listen/">UPDATE &#8211; The Sharing Space &#8211; A Place To Listen</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Dieser Podcast hat schon einige Veränderungen durchgemacht, vom &#8220;Gehirnmus eines Mittzwanzigers&#8221; zu &#8220;Soul Space&#8221; nun ist es Zeit für &#8220;The Sharing Space&#8221;. Heute erfährst du die Hintergründe.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/update-the-sharing-space-a-place-to-listen/">UPDATE &#8211; The Sharing Space &#8211; A Place To Listen</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>3</itunes:season>	</item>
 	
 	<item>
         <title>Von Entwicklungszusammenarbeit zu Change Facitilitation und Systemischer Beratung - Anna</title>
-		<link>https://thesharing.space/klafreit/</link>
+		<link>https://thesharingspace.de/klafreit/</link>
 		<pubDate>Fri, 06 Nov 2020 01:22:00 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2021-02-06t17:22:32+00:00-3be96abf6999cd7</guid>
     	<description><![CDATA[Meistens spreche ich vorher mit meinen Interview Partnern und erkläre wie es ungefähr ablaufen wird. Nicht so bei Anna. Mir war klar dass ich verstehen wollte warum sie diesen radikalen Wandel von einer erfolgreichen Angestellten zur Coachin. Da gibt es eine Geschichte und ich wollte die Rohfassung ich wollte die Geschichte die sich Anna selbst erzählt ohne sie zu beschönigen. Mir war auch klar, dass diese Geschichte vielleicht erst beim Erzählen greifbar wird und sich manifestiert. 
@@ -625,9 +675,9 @@ Theorie U: https://www.presencing.org/aboutus/theory-u/
 U.lab: https://www.edx.org/course/ulab-leading-from-the-emerging-future/ 
 
 School of facilitating: https://school-of-facilitating.de/]]></description><post-id xmlns="com-wordpress:feed-additions:1">734</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/klafreit/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/klafreit/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_soul_space_episode_23_Von_Entwicklungszusammenarbeit_zu_Change_Facilitation_Anna.mp3" length="35309619" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/106/s/feed/c/mp3/podcast_soul_space_episode_23_Von_Entwicklungszusammenarbeit_zu_Change_Facilitation_Anna.mp3" length="35309619" type="audio/mpeg"/>
 
 		<itunes:duration>00:49:02</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -666,9 +716,9 @@ Theorie U: https://www.presencing.org/aboutus/theory-u/
 U.lab: https://www.edx.org/course/ulab-leading-from-the-emerging-future/ 
 
 School of facilitating: https://school-of-facilitating.de/]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/PSX_20201104_181700-scaled-e1615834703781.jpg?fit=900%2C900&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/PSX_20201104_181700-scaled-e1615834703781.jpg"/>
 		<content:encoded><![CDATA[
-<h4>Wie die Theorie U das Leben auf den Kopf stellen kann&nbsp;</h4>
+<h4 class="wp-block-heading">Wie die Theorie U das Leben auf den Kopf stellen kann&nbsp;</h4>
 
 
 
@@ -713,13 +763,13 @@ School of facilitating: https://school-of-facilitating.de/]]></itunes:summary>
 
 
 <p>School of facilitating: <a href="https://school-of-facilitating.de/" target="_blank" rel="noreferrer noopener">https://school-of-facilitating.de/</a>&nbsp;</p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/klafreit/">Von Entwicklungszusammenarbeit zu Change Facitilitation und Systemischer Beratung &#8211; Anna</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/klafreit/">Von Entwicklungszusammenarbeit zu Change Facitilitation und Systemischer Beratung &#8211; Anna</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>2</itunes:season>	</item>
 	
 	<item>
         <title>Eine Reise durch Polyamorie, Mut und Freiheit - Fritz</title>
-		<link>https://thesharing.space/festival-fritz/</link>
+		<link>https://thesharingspace.de/festival-fritz/</link>
 		<pubDate>Wed, 28 Oct 2020 20:52:12 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-10-29t21:58:00+00:00-75f7c89a81d3288</guid>
     	<description><![CDATA[Fritz (fritzschnitzer.com) ist ein Designer, aber vor allem immer noch einer der mutigsten Menschen, den ich kenne. In dieser Folge erzählt er von seinen Erfahrungen auf einem besonderen Festival. Für Fritz war es lebensverändernd, so wie diese Folge auch mit Sicherheit mein Weltbild verändert und ergänzt hat. Wir sind zu so viel mehr fähig, als ich es für möglich gehalten habe...
@@ -727,10 +777,10 @@ School of facilitating: https://school-of-facilitating.de/]]></itunes:summary>
 Danke dir für deine Offenheit mein Freund!
 
 Hier übrigens die erste Folge mit Fritz, in der er sich über seine Kindheit und Lebensweg öffnet.
-https://soul-space.net/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/]]></description><post-id xmlns="com-wordpress:feed-additions:1">721</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/festival-fritz/#" />
+https://thesharingspace.de/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/]]></description><post-id xmlns="com-wordpress:feed-additions:1">721</post-id>
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/festival-fritz/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_soul_space_episode_22_Eine_Reise_zu_Polyamorie_Mut_und_Freiheit-Fritz.mp3" length="35948985" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/105/s/feed/c/mp3/podcast_soul_space_episode_22_Eine_Reise_zu_Polyamorie_Mut_und_Freiheit-Fritz.mp3" length="35948985" type="audio/mpeg"/>
 
 		<itunes:duration>01:12:07</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -743,18 +793,18 @@ https://soul-space.net/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/]]></des
 Danke dir für deine Offenheit mein Freund!
 
 Hier übrigens die erste Folge mit Fritz, in der er sich über seine Kindheit und Lebensweg öffnet.
-https://soul-space.net/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/Fritz-Cover-1.jpg?fit=400%2C400&amp;ssl=1"/>
+https://thesharingspace.de/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/]]></itunes:summary>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/Fritz-Cover-1.jpg"/>
 		<content:encoded><![CDATA[<a href="https://open.spotify.com/episode/1yNXuROO64qkwV1VZkvlXS" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-spotify" style="font-size:13px;color:#FFFFFF"></i> Spotify</span></a>
 <a href="https://podcasts.apple.com/de/podcast/eine-reise-durch-polyamorie-mut-und-freiheit-fritz/id1458014847?i=1000496540894" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-apple" style="font-size:13px;color:#FFFFFF"></i> Apple Podcasts</span></a>
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb3VsLXNwYWNlLm5ldC9mZWVkL21wMw/episode/cG9kbG92ZS0yMDIwLTEwLTI5dDIxOjU4OjAwKzAwOjAwLTc1ZjdjODlhODFkMzI4OA?sa=X&amp;ved=0CAUQkfYCahcKEwig38LWntzsAhUAAAAAHQAAAAAQAQ" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a>
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb3VsLXNwYWNlLm5ldC9mZWVkL21wMw/episode/cG9kbG92ZS0yMDIwLTEwLTI5dDIxOjU4OjAwKzAwOjAwLTc1ZjdjODlhODFkMzI4OA?sa=X&#038;ved=0CAUQkfYCahcKEwig38LWntzsAhUAAAAAHQAAAAAQAQ" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a>
 
 
 <hr class="wp-block-separator is-style-dots"/>
 
 
 
-<h4>Wie kleine Entscheidungen große Effekte haben können </h4>
+<h4 class="wp-block-heading">Wie kleine Entscheidungen große Effekte haben können </h4>
 
 
 
@@ -766,7 +816,7 @@ https://soul-space.net/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/]]></itu
 
 
 
-<p>Hier übrigens die erste Folge mit Fritz, in der er sich über seine Kindheit und Lebensweg öffnet.<br><a href="https://soul-space.net/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/">https://soul-space.net/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/</a></p>
+<p>Hier übrigens die erste Folge mit Fritz, in der er sich über seine Kindheit und Lebensweg öffnet.<br><a href="https://thesharingspace.de/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/">https://thesharingspace.de/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/</a></p>
 
 
 
@@ -775,13 +825,13 @@ https://soul-space.net/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/]]></itu
 
 
 <p>Instagram <a href="http://www.instagram.com/fritzschnitzer/">www.instagram.com/fritzschnitzer/</a><br>Facebook <a href="http://www.facebook.com/fritzschnitzer/">www.facebook.com/fritzschnitzer/</a></p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/festival-fritz/">Eine Reise durch Polyamorie, Mut und Freiheit &#8211; Fritz</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/festival-fritz/">Eine Reise durch Polyamorie, Mut und Freiheit &#8211; Fritz</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>2</itunes:season>	</item>
 	
 	<item>
         <title>Heilende Räume voller Authentizität erschaffen - Rachel Bongartz</title>
-		<link>https://thesharing.space/heilender-raum/</link>
+		<link>https://thesharingspace.de/heilender-raum/</link>
 		<pubDate>Thu, 01 Oct 2020 14:02:00 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-10-01t16:24:26+00:00-5d6e4c565fe029b</guid>
     	<description><![CDATA[Vor ca. 1,5 Jahren habe ich zum ersten Mal ein Holotropes Atmen Wochenende mitgemacht. Es ist eine Atemtechnik durch die außergewöhnliche Bewusstseinszustände in einem sicheren Rahmen zu erleben kann um sich selbst zu erforschen oder zu heilen. 
@@ -801,7 +851,7 @@ __
 Erwähnte Inhalte: 
 
 Holotropic Breathwork 
-https://soul-space.net/holo/ 
+https://thesharingspace.de/holo/ 
 
 Einweihung - Elisabeth Haich 
 
@@ -809,9 +859,9 @@ Tantra Illuminated - Christopher D Wallis
 
 Vipassana 
 https://www.dhamma.org]]></description><post-id xmlns="com-wordpress:feed-additions:1">639</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/heilender-raum/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/heilender-raum/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_soul_space_episode_21_Heilende_Raeume_voller_Authentizitaet_erschaffen_Rachel.mp3" length="28335979" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/102/s/feed/c/mp3/podcast_soul_space_episode_21_Heilende_Raeume_voller_Authentizitaet_erschaffen_Rachel.mp3" length="28335979" type="audio/mpeg"/>
 
 		<itunes:duration>00:52:01</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -836,7 +886,7 @@ __
 Erwähnte Inhalte: 
 
 Holotropic Breathwork 
-https://soul-space.net/holo/ 
+https://thesharingspace.de/holo/ 
 
 Einweihung - Elisabeth Haich 
 
@@ -844,10 +894,10 @@ Tantra Illuminated - Christopher D Wallis
 
 Vipassana 
 https://www.dhamma.org]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/Rachel1.jpeg?fit=2017%2C2017&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/Rachel1.jpeg"/>
 		<content:encoded><![CDATA[<a href="https://open.spotify.com/episode/1dirJP5NZgNXyojz5ihhDr" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-spotify" style="font-size:13px;color:#FFFFFF"></i> Spotify</span></a>
 <a href="https://podcasts.apple.com/de/podcast/heilende-r%C3%A4ume-voller-authentizit%C3%A4t-erschaffen-rachel/id1458014847?i=1000493271315" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-apple" style="font-size:13px;color:#FFFFFF"></i> Apple Podcasts</span></a>
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb3VsLXNwYWNlLm5ldC9mZWVkL21wMw/episode/cG9kbG92ZS0yMDIwLTEwLTAxdDE2OjI0OjI2KzAwOjAwLTVkNmU0YzU2NWZlMDI5Yg?sa=X&amp;ved=2ahUKEwi-y9DJ8JPsAhUT-BoKHbuUBLoQkfYCegQIARAF" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a>
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb3VsLXNwYWNlLm5ldC9mZWVkL21wMw/episode/cG9kbG92ZS0yMDIwLTEwLTAxdDE2OjI0OjI2KzAwOjAwLTVkNmU0YzU2NWZlMDI5Yg?sa=X&#038;ved=2ahUKEwi-y9DJ8JPsAhUT-BoKHbuUBLoQkfYCegQIARAF" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a>
 
 
 <hr class="wp-block-separator is-style-dots"/>
@@ -860,7 +910,7 @@ https://www.dhamma.org]]></itunes:summary>
 
 
 
-<h4 class="has-text-align-center">Was möglich ist, wenn man anfängt sich neugierig zu erforschen</h4>
+<h4 class="has-text-align-center wp-block-heading">Was möglich ist, wenn man anfängt sich neugierig zu erforschen</h4>
 
 
 
@@ -892,7 +942,7 @@ https://www.dhamma.org]]></itunes:summary>
 
 
 
-<p class="has-normal-font-size"><strong>Erwähnte Inhalte:&nbsp;</strong><br><br><a href="https://soul-space.net/holo/" target="_blank" rel="noreferrer noopener">Holotropic Breathwork</a></p>
+<p class="has-normal-font-size"><strong>Erwähnte Inhalte:&nbsp;</strong><br><br><a href="https://thesharingspace.de/holo/" target="_blank" rel="noreferrer noopener">Holotropic Breathwork</a></p>
 
 
 
@@ -905,13 +955,13 @@ https://www.dhamma.org]]></itunes:summary>
 
 
 <p><a href="https://www.dhamma.org" target="_blank" rel="noreferrer noopener">Vipassana</a></p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/heilender-raum/">Heilende Räume voller Authentizität erschaffen &#8211; Rachel Bongartz</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/heilender-raum/">Heilende Räume voller Authentizität erschaffen &#8211; Rachel Bongartz</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>2</itunes:season>	</item>
 	
 	<item>
         <title>Becoming a monk - Nick</title>
-		<link>https://thesharing.space/monk-nick/</link>
+		<link>https://thesharingspace.de/monk-nick/</link>
 		<pubDate>Sun, 26 Jul 2020 17:57:41 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-07-26t16:48:16+00:00-2812c0b9de14abf</guid>
     	<description><![CDATA[He dicided to become a monk and dedicate his live to spiritual development. For that he left his career, his girlfriend and all of his posessions. In our conversation he talks about his Childhood, about meditation, his view on the vipassana meditation as taught by S.N. Goenka, about his time as a teacher, his decision process and so much more.  
@@ -931,9 +981,9 @@ https://www.youtube.com/channel/UCKejmWAt_kNpRMq5gQEGAqw
 
 Vipassana as tought by Goenka:
 http://dhamma.org]]></description><post-id xmlns="com-wordpress:feed-additions:1">609</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/monk-nick/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/monk-nick/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_soul_space_episode_22_Becoming_a_monk_Nick.mp3" length="56955714" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/101/s/feed/c/mp3/podcast_soul_space_episode_22_Becoming_a_monk_Nick.mp3" length="56955714" type="audio/mpeg"/>
 
 		<itunes:duration>00:59:19</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -958,7 +1008,7 @@ https://www.youtube.com/channel/UCKejmWAt_kNpRMq5gQEGAqw
 
 Vipassana as tought by Goenka:
 http://dhamma.org]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/Nick-square-2.png?fit=400%2C400&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/Nick-square-2.png"/>
 		<content:encoded><![CDATA[
 <p>He decided to become a monk and dedicate his life to spiritual development. For that he left his career, his girlfriend and all of his possessions. In our conversation he talks about his Childhood, about meditation, his view on the Vipassana meditation as taught by S.N. Goenka, about his time as a teacher, his decision process and so much more.</p>
 
@@ -969,11 +1019,11 @@ http://dhamma.org]]></itunes:summary>
 
 <a href="https://open.spotify.com/episode/3rlvpBF5QEZohvzv1I2Soa" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-spotify" style="font-size:13px;color:#FFFFFF"></i> Spotify</span></a>
 <a href="https://podcasts.apple.com/de/podcast/becoming-a-monk-nick/id1458014847?i=1000486192660" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-apple" style="font-size:13px;color:#FFFFFF"></i> Apple Podcasts</span></a>
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb3VsLXNwYWNlLm5ldC9mZWVkL21wMw/episode/cG9kbG92ZS0yMDIwLTA3LTI2dDE2OjQ4OjE2KzAwOjAwLTI4MTJjMGI5ZGUxNGFiZg?sa=X&amp;ved=0CAkQ38oDahcKEwiIzIjutO3qAhUAAAAAHQAAAAAQAQ" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a> <a href="https://youtu.be/HMynjVaTl7A" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Youtube</span></a>
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb3VsLXNwYWNlLm5ldC9mZWVkL21wMw/episode/cG9kbG92ZS0yMDIwLTA3LTI2dDE2OjQ4OjE2KzAwOjAwLTI4MTJjMGI5ZGUxNGFiZg?sa=X&#038;ved=0CAkQ38oDahcKEwiIzIjutO3qAhUAAAAAHQAAAAAQAQ" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a> <a href="https://youtu.be/HMynjVaTl7A" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Youtube</span></a>
 <p> </p>
 
 
-<h4>Selected Links from the Episode</h4>
+<h4 class="wp-block-heading">Selected Links from the Episode</h4>
 
 
 
@@ -994,13 +1044,13 @@ http://dhamma.org]]></itunes:summary>
 
 
 <p></p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/monk-nick/">Becoming a monk &#8211; Nick</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/monk-nick/">Becoming a monk &#8211; Nick</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>2</itunes:season>	</item>
 	
 	<item>
         <title>Die gewünschten Kinder - Dietz</title>
-		<link>https://thesharing.space/dietz/</link>
+		<link>https://thesharingspace.de/dietz/</link>
 		<pubDate>Wed, 15 Jul 2020 06:15:00 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-07-15t10:18:34+00:00-6353e627149eb50</guid>
     	<description><![CDATA[Dietz ist einer der Menschen die sehr viele Geschichten erzählen können. Manche von ihnen kann man kaum glauben und aus jeder kann man etwas lernen. 
@@ -1009,9 +1059,9 @@ Eine besonders spannender Lebensabschnitt war die Zeit als Dietz ein Kind haben 
 
 Ein paar Jahre später ist dann auch diese Doku entstanden: 
 https://www.youtube.com/watch?v=bQTv5Alv39o]]></description><post-id xmlns="com-wordpress:feed-additions:1">589</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/dietz/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/dietz/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_soul_space_episode_21_Die_gewuenschten_Kinder_Dietz.mp3" length="31053310" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/99/s/feed/c/mp3/podcast_soul_space_episode_21_Die_gewuenschten_Kinder_Dietz.mp3" length="31053310" type="audio/mpeg"/>
 
 		<itunes:duration>00:39:01</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1025,7 +1075,7 @@ Eine besonders spannender Lebensabschnitt war die Zeit als Dietz ein Kind haben 
 
 Ein paar Jahre später ist dann auch diese Doku entstanden: 
 https://www.youtube.com/watch?v=bQTv5Alv39o]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/IMG_20200714_232135-1-scaled-e1594766920299.jpg?fit=400%2C400&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/IMG_20200714_232135-1-scaled-e1594766920299.jpg"/>
 		<content:encoded><![CDATA[
 <p>Dietz ist einer der Menschen die sehr viele Geschichten erzählen können. Manche von ihnen kann man kaum glauben und aus jeder kann man etwas lernen.&nbsp;</p>
 
@@ -1046,20 +1096,20 @@ https://www.youtube.com/watch?v=bQTv5Alv39o]]></itunes:summary>
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="nv-iframe-embed"><iframe loading="lazy" title="Der Dufte Daddy Dietz - Das geschenkte Kind" width="1200" height="675" src="https://www.youtube.com/embed/bQTv5Alv39o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/dietz/">Die gewünschten Kinder &#8211; Dietz</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/dietz/">Die gewünschten Kinder &#8211; Dietz</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>2</itunes:season>	</item>
 	
 	<item>
         <title>Der Traumjob - Hillu</title>
-		<link>https://thesharing.space/der-traumjob-hillu/</link>
+		<link>https://thesharingspace.de/der-traumjob-hillu/</link>
 		<pubDate>Fri, 29 May 2020 14:57:57 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-05-29t14:59:20+00:00-73451ed228ab784</guid>
     	<description><![CDATA[In der letzten Episode ging es um Hillus Entscheidung nach Südafrika zu ziehen. 
 In dieser Episode möchte ich herausfinden wie sie diese Entscheidung verändert hat. Was hätte sie verpasst, wenn sie damals nicht diese große Entscheidung getroffen Hätte?]]></description><post-id xmlns="com-wordpress:feed-additions:1">445</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/der-traumjob-hillu/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/der-traumjob-hillu/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_soul_space_episode_18_Der_Traumjob_-_Hillu.mp3" length="23725870" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/98/s/feed/c/mp3/podcast_soul_space_episode_18_Der_Traumjob_-_Hillu.mp3" length="23725870" type="audio/mpeg"/>
 
 		<itunes:duration>00:24:42</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1069,20 +1119,20 @@ In dieser Episode möchte ich herausfinden wie sie diese Entscheidung verändert
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:summary><![CDATA[In der letzten Episode ging es um Hillus Entscheidung nach Südafrika zu ziehen. 
 In dieser Episode möchte ich herausfinden wie sie diese Entscheidung verändert hat. Was hätte sie verpasst, wenn sie damals nicht diese große Entscheidung getroffen Hätte?]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/IMG_20200522_054821-e1590227541934.jpg?fit=401%2C400&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/IMG_20200522_054821-e1590227541934.jpg"/>
 		<content:encoded><![CDATA[
 <p>In der letzten Episode ging es, um Hillus Entscheidung nach Südafrika zu ziehen.<br>In dieser Episode möchte ich herausfinden, wie sie diese Entscheidung verändert hat. Was hätte sie verpasst, wenn sie damals nicht diesen großen Schritt gemacht hätte?</p>
 
 
 
 <p></p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/der-traumjob-hillu/">Der Traumjob &#8211; Hillu</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/der-traumjob-hillu/">Der Traumjob &#8211; Hillu</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>2</itunes:season>	</item>
 	
 	<item>
         <title>Die richtigen Entscheidungen - Hillu</title>
-		<link>https://thesharing.space/die-richtigen-entscheidungen-hillu/</link>
+		<link>https://thesharingspace.de/die-richtigen-entscheidungen-hillu/</link>
 		<pubDate>Fri, 22 May 2020 18:00:00 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-05-23t09:43:55+00:00-32fcb1d09be2c44</guid>
     	<description><![CDATA[Hillu gehört zu den Menschen, die viele spannende Geschichten aus ihrem Leben erzählen können.
@@ -1090,9 +1140,9 @@ In dieser Episode möchte ich herausfinden wie sie diese Entscheidung verändert
 Doch das war nicht immer so. Um ihr Leben zu füllen musste sie sehr mutig sein.
 
 Wir sprechen unter anderem über die entscheidenden Wendepunkte und Techniken die ihr dabei geholfen haben.]]></description><post-id xmlns="com-wordpress:feed-additions:1">443</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/die-richtigen-entscheidungen-hillu/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/die-richtigen-entscheidungen-hillu/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_soul_space_episode_17_Die_richtigen_Entscheidungen_hillu.mp3" length="36403408" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/91/s/feed/c/mp3/podcast_10001_soul_space_episode_17_Die_richtigen_Entscheidungen_hillu.mp3" length="36403408" type="audio/mpeg"/>
 
 		<itunes:duration>00:37:55</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1105,7 +1155,7 @@ Wir sprechen unter anderem über die entscheidenden Wendepunkte und Techniken di
 Doch das war nicht immer so. Um ihr Leben zu füllen musste sie sehr mutig sein.
 
 Wir sprechen unter anderem über die entscheidenden Wendepunkte und Techniken die ihr dabei geholfen haben.]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/IMG_20200522_054821-e1590227541934.jpg?fit=401%2C400&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/IMG_20200522_054821-e1590227541934.jpg"/>
 		<content:encoded><![CDATA[
 <p>Hillu gehört zu den Menschen, die viele spannende Geschichten aus ihrem Leben erzählen können. </p>
 
@@ -1116,19 +1166,19 @@ Wir sprechen unter anderem über die entscheidenden Wendepunkte und Techniken di
 
 
 <p>Wir sprechen unter anderem über die entscheidenden <strong>Wendepunkte</strong> und <strong>Techniken</strong> die ihr dabei geholfen haben.</p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/die-richtigen-entscheidungen-hillu/">Die richtigen Entscheidungen &#8211; Hillu</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/die-richtigen-entscheidungen-hillu/">Die richtigen Entscheidungen &#8211; Hillu</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>2</itunes:season>	</item>
 	
 	<item>
         <title>How to live a meaningful life - Jim Myers</title>
-		<link>https://thesharing.space/jim-myers/</link>
+		<link>https://thesharingspace.de/jim-myers/</link>
 		<pubDate>Sat, 28 Mar 2020 13:40:00 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-03-27t17:28:24+00:00-ece56dc43d0dd35</guid>
     	<description><![CDATA[Jim is one of the greatest people I've ever met. I met him in Udaipur in India, and he is one of the founders of an organisation that is helping animals. And they started when nobody really cared about animals in India and now created a movement, because now people really care about Street animals in the city. I was especially touched by way the animal shelter was created because there was so much love so much compassion and I really wanted to learn more about it and ask him how they created it the way it is right now. Just to get some facts across: Animal Aid Unlimited in Udaipur has now over 700 residents, animals who live here temporary or permanently and has almost 100 staff members now and of course they have so many volunteers, and we have been one of them for helping this animals, learning a lot about how to treat them and how to be a kinder person. If you Google Animal aid Unlimited you will realize how many followers this organisation has now on YouTube and all the other channels, because they documented their work and it's just absolutely amazing.]]></description><post-id xmlns="com-wordpress:feed-additions:1">254</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/jim-myers/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/jim-myers/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_soul_space_episode_190963_how_to_live_a_meaningful_life_jim_myers.mp3" length="45514966" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/21/s/feed/c/mp3/podcast_10001_soul_space_episode_190963_how_to_live_a_meaningful_life_jim_myers.mp3" length="45514966" type="audio/mpeg"/>
 
 		<itunes:duration>00:53:51</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1136,15 +1186,15 @@ Wir sprechen unter anderem über die entscheidenden Wendepunkte und Techniken di
 		<itunes:title>How to live a meaningful life - Jim Myers</itunes:title>
 		<itunes:episode>16</itunes:episode>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:summary><![CDATA[Jim is one of the greatest people I've ever met. I met him in Udaipur in India, and he is one of the founders of an organisation that is helping animals. And they started when nobody really cared about animals in India and now created a movement, because now people really care about Street animals in the city. I was especially touched by way the animal shelter was created because there was so much love so much compassion and I really wanted to learn more about it and ask him how they created it the way it is right now. Just to get some facts across: Animal Aid Unlimited in Udaipur has now over 700 residents, animals who live here temporary or permanently and has almost 100 staff members now and of course they have so many volunteers, and we have been one of them for helping this animals, learning a lot about how to treat them and how to be a kinder person. If you Google Animal aid Unlimited you will realize how many followers this organisation has now on YouTube and all the other channels, because they documented their work and it's just absolutely amazing.]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/photo5204295251219557766.jpg?fit=900%2C900&amp;ssl=1"/>
+		<itunes:summary><![CDATA[Jim is one of the greatest people I&#039;ve ever met. I met him in Udaipur in India, and he is one of the founders of an organisation that is helping animals. And they started when nobody really cared about animals in India and now created a movement, because now people really care about Street animals in the city. I was especially touched by way the animal shelter was created because there was so much love so much compassion and I really wanted to learn more about it and ask him how they created it the way it is right now. Just to get some facts across: Animal Aid Unlimited in Udaipur has now over 700 residents, animals who live here temporary or permanently and has almost 100 staff members now and of course they have so many volunteers, and we have been one of them for helping this animals, learning a lot about how to treat them and how to be a kinder person. If you Google Animal aid Unlimited you will realize how many followers this organisation has now on YouTube and all the other channels, because they documented their work and it&#039;s just absolutely amazing.]]></itunes:summary>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/photo5204295251219557766.jpg"/>
 		<content:encoded><![CDATA[<a href="https://open.spotify.com/episode/3QieHwBN3OZHd43C1HqmQu?si=XHyRvuCQSRybyDT1pckPlg" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-spotify" style="font-size:13px;color:#FFFFFF"></i> Spotify</span></a>
 <a href="https://podcasts.apple.com/de/podcast/how-to-live-a-meaningful-life-jim-myers/id1458014847?i=1000469761979" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-apple" style="font-size:13px;color:#FFFFFF"></i> Apple Podcasts</span></a>
 <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb3VsLXNwYWNlLm5ldC9mZWVkL21wMw/episode/cG9kbG92ZS0yMDIwLTAzLTI3dDE3OjI4OjI0KzAwOjAwLWVjZTU2ZGM0M2QwZGQzNQ?ved=0CAsQzsICahcKEwiogKObh4fqAhUAAAAAHQAAAAAQBQ" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a>
 <p></p>
 
 
-<h4 class="has-text-align-center">What caring about others can teach us</h4>
+<h4 class="has-text-align-center wp-block-heading">What caring about others can teach us</h4>
 
 
 
@@ -1156,7 +1206,7 @@ Wir sprechen unter anderem über die entscheidenden Wendepunkte und Techniken di
 
 
 
-<h3>More:</h3>
+<h3 class="wp-block-heading">More:</h3>
 
 
 
@@ -1193,20 +1243,20 @@ Wir sprechen unter anderem über die entscheidenden Wendepunkte und Techniken di
 
 
 <p><a href="https://de.wikipedia.org/wiki/Lew_Nikolajewitsch_Tolstoi">Lew Nikolajewitsch Tolstoi – Wikipedia </a></p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/jim-myers/">How to live a meaningful life &#8211; Jim Myers</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/jim-myers/">How to live a meaningful life &#8211; Jim Myers</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>2</itunes:season>	</item>
 	
 	<item>
         <title>Soul Space – Ein neues Kapitel</title>
-		<link>https://thesharing.space/soul-space-ein-neues-kapitel/</link>
+		<link>https://thesharingspace.de/soul-space-ein-neues-kapitel/</link>
 		<pubDate>Fri, 27 Mar 2020 18:55:09 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-03-27t17:26:08+00:00-d43b9423263e980</guid>
     	<description><![CDATA[Ein Jahr ist es nun her seit die erste Folge aufgenommen wurde. Ich muss sagen ich wusste damals noch nicht so richtig warum ich das mache und wie ich es gestalten werde. Nach und nach verstand ich immer mehr, dass es genau das ist was ich machen möchte.
 Nun ist es aber Zeit für ein neues Kapitel und eine Weiterentwicklung.]]></description><post-id xmlns="com-wordpress:feed-additions:1">253</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/soul-space-ein-neues-kapitel/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/soul-space-ein-neues-kapitel/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_soul_space_episode_15_soul_space_ein_neues_kapitel.mp3" length="3835899" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/20/s/feed/c/mp3/podcast_10001_soul_space_episode_15_soul_space_ein_neues_kapitel.mp3" length="3835899" type="audio/mpeg"/>
 
 		<itunes:duration>00:04:21</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1216,24 +1266,24 @@ Nun ist es aber Zeit für ein neues Kapitel und eine Weiterentwicklung.]]></desc
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:summary><![CDATA[Ein Jahr ist es nun her seit die erste Folge aufgenommen wurde. Ich muss sagen ich wusste damals noch nicht so richtig warum ich das mache und wie ich es gestalten werde. Nach und nach verstand ich immer mehr, dass es genau das ist was ich machen möchte.
 Nun ist es aber Zeit für ein neues Kapitel und eine Weiterentwicklung.]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/logo02_400x400-e1592737711817.png?fit=400%2C400&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/logo02_400x400-e1592737711817.png"/>
 		<content:encoded><![CDATA[
 <p>Ein Jahr ist es nun her seit die erste Folge aufgenommen wurde. Ich muss sagen ich wusste damals noch nicht so richtig warum ich das mache und wie ich es gestalten werde. Nach und nach verstand ich immer mehr, dass es genau das ist was ich machen möchte.<br>Nun ist es aber Zeit für ein neues Kapitel und eine Weiterentwicklung.</p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/soul-space-ein-neues-kapitel/">Soul Space – Ein neues Kapitel</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/soul-space-ein-neues-kapitel/">Soul Space – Ein neues Kapitel</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>2</itunes:season>	</item>
 	
 	<item>
         <title>Update aus Indien</title>
-		<link>https://thesharing.space/update-indien/</link>
+		<link>https://thesharingspace.de/update-indien/</link>
 		<pubDate>Sun, 12 Jan 2020 15:09:45 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-02-26t20:57:45+00:00-e98c6cd3aa085a9</guid>
     	<description><![CDATA[Wer sich gefragt hat wann denn endlich ein neues Interview rauskommt, die müssen sich leider immer noch gedulden. ;)
 
 Seit Oktober bin ich und meine Freundin auf Reisen. Gerade sind wir in Indien und lernen unglaublich viel. Einen Gedanken wollten wir hier mit dir teilen…]]></description><post-id xmlns="com-wordpress:feed-additions:1">108</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/update-indien/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/update-indien/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_14_update_aus_indien.mp3" length="20819899" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/3/s/feed/c/mp3/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_14_update_aus_indien.mp3" length="20819899" type="audio/mpeg"/>
 
 		<itunes:duration>00:23:26</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1244,22 +1294,22 @@ Seit Oktober bin ich und meine Freundin auf Reisen. Gerade sind wir in Indien un
 		<itunes:summary><![CDATA[Wer sich gefragt hat wann denn endlich ein neues Interview rauskommt, die müssen sich leider immer noch gedulden. ;)
 
 Seit Oktober bin ich und meine Freundin auf Reisen. Gerade sind wir in Indien und lernen unglaublich viel. Einen Gedanken wollten wir hier mit dir teilen…]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/a355f050-632a-4daf-8525-aaf7d746db20.jpg?fit=400%2C400&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/a355f050-632a-4daf-8525-aaf7d746db20.jpg"/>
 		<content:encoded><![CDATA[
-<h4> Raw Edition mit Hupkonzert im Hintergrund </h4>
+<h4 class="wp-block-heading"> Raw Edition mit Hupkonzert im Hintergrund </h4>
 
 
 <div>Wer sich gefragt hat wann denn endlich ein neues Interview rauskommt, die müssen sich leider immer noch gedulden. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><p></p>
 <p>Seit Oktober sind meine Freundin und ich auf Reisen. Gerade sind wir in Indien und lernen unglaublich viel. Einen Gedanken wollten wir hier mit dir teilen…</p>
 <p>Das Projekt:<br><a href="http://toranam.net/">Toranam.net</a></p>
 <p>Der Reiseblog mit Bildern:<br><a href="http://beccyandmax.wordpress.com/">BeccyAndMax</a></p>
-</div><p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/update-indien/">Update aus Indien</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+</div><p>Der Beitrag <a href="https://thesharingspace.de/update-indien/">Update aus Indien</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>1</itunes:season>	</item>
 	
 	<item>
         <title>Wie können wir glücklich(er) leben? - Nathalie</title>
-		<link>https://thesharing.space/wie-koennen-wir-gluecklicher-leben/</link>
+		<link>https://thesharingspace.de/wie-koennen-wir-gluecklicher-leben/</link>
 		<pubDate>Sat, 10 Aug 2019 06:00:00 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-02-26t20:57:45+00:00-22c5d9cdf34486d</guid>
     	<description><![CDATA[In dieser Folge möchte ich dir Nathalie vorstellen. Sie beschäftigt sich beruflich mit dem Thema Positive Psychologie und damit mit der Frage wie Menschen ihr Leben positiver gestalten können. Wie können wir glücklich(er) leben?
@@ -1280,9 +1330,9 @@ Wie kann mein Glück die Welt verändern?
 Und viele mehr!
 
 Oh man ich bin so froh, dieses Gespräch mit dir teilen zu können :-)]]></description><post-id xmlns="com-wordpress:feed-additions:1">107</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/wie-koennen-wir-gluecklicher-leben/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/wie-koennen-wir-gluecklicher-leben/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_13_wie_koennen_wir_gluecklich_er_leben_nathalie.mp3" length="36982781" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/5/s/feed/c/mp3/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_13_wie_koennen_wir_gluecklich_er_leben_nathalie.mp3" length="36982781" type="audio/mpeg"/>
 
 		<itunes:duration>00:43:44</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1308,9 +1358,9 @@ Wie kann mein Glück die Welt verändern?
 Und viele mehr!
 
 Oh man ich bin so froh, dieses Gespräch mit dir teilen zu können :-)]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/IMG_20200413_153305.jpg?fit=914%2C914&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/IMG_20200413_153305.jpg"/>
 		<content:encoded><![CDATA[
-<h4>Was Psychologen über Glück herausgefunden haben </h4>
+<h4 class="wp-block-heading">Was Psychologen über Glück herausgefunden haben </h4>
 
 
 <div>In dieser Folge möchte ich dir Nathalie vorstellen. Sie beschäftigt sich beruflich mit dem Thema Positive Psychologie und damit mit der Frage wie Menschen ihr Leben positiver gestalten können. Wie können wir glücklich(er) leben?
@@ -1334,19 +1384,19 @@ Oh man ich bin so froh, dieses Gespräch mit dir teilen zu können :-)]]></itune
 <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb3VsLXNwYWNlLm5ldC9mZWVkL21wMw/episode/cG9kbG92ZS0yMDIwLTAyLTI2dDIwOjU3OjQ1KzAwOjAwLTIyYzVkOWNkZjM0NDg2ZA?ved=2ahUKEwi4zM6Aw8zqAhVBlxoKHU0tBnYQkfYCegQIARAF" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a>
 <p><strong>Zum Weiterstöbern:</strong></p>
 <ul>
-<li>Nathalies Blog <a href="https://happyroots.de/">&#8222;Happyroots&#8220;</a></li>
+<li>Nathalies Blog <a href="https://happyroots.de/">&#8220;Happyroots&#8221;</a></li>
 <li>Nathalies Buch <a href="https://happyroots.de/buch-glueckliche-menschen/">„Was glückliche Menschen anders machen“</a></li>
 <li>Nathalies <a href="https://www.youtube.com/channel/UCr-rEDQS44AlloJcYPlyj2A">Youtube Channel</a></li>
 <li><a href="https://www.ecosia.org/search?q=Michael+W.+Fordyce">Michael W. Fordyce<br /></a></li>
 <li><a href="https://www.ecosia.org/search?q=Albert+Schweizer">Albert Schweizer </a></li>
 </ul>
-</div><p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/wie-koennen-wir-gluecklicher-leben/">Wie können wir glücklich(er) leben? &#8211; Nathalie</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+</div><p>Der Beitrag <a href="https://thesharingspace.de/wie-koennen-wir-gluecklicher-leben/">Wie können wir glücklich(er) leben? &#8211; Nathalie</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>1</itunes:season>	</item>
 	
 	<item>
         <title>Following The Inner Voice - Jessie Sanbrook - part 2 of 2</title>
-		<link>https://thesharing.space/following-the-inner-voice-part-2-of-2/</link>
+		<link>https://thesharingspace.de/following-the-inner-voice-part-2-of-2/</link>
 		<pubDate>Sat, 29 Jun 2019 08:00:00 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-02-26t20:57:44+00:00-dce8cc610785b11</guid>
     	<description><![CDATA[She decided to follow her heart and move to Berlin. A city where she would be alone, without family and friends. A city that would cost her longterm relationship to end. No one waited for her in Berlin, no one asked her to come. She didn't even know the language. But she had this idea, this little voice that told her that something brilliant would be waiting for her there. I want you to meet Jessie Sanbrook @jessie_sanbrook, one of the most smiliest, vibrant and fascinating human beeings I've ever met. For me, she is the best example of what can happen if you follow your heart. If you follow your dream. Even if it means taking a big risk and leaving everything behind. There is no dream without sacrifice.
@@ -1354,9 +1404,9 @@ Oh man ich bin so froh, dieses Gespräch mit dir teilen zu können :-)]]></itune
 Fast forward a year since arriving in Germany, and she’s now established The Design Kids Berlin community @thedesignkids (with over 600 participants), successfully running her own business in Graphic Design and Illustration, and traveling the world.
 
 What I really want to know, is how she did it. How she overcame the sometimes paralysing fear of starting a new life and do "what the heart is telling you". We dive into discussion about creativity and what tools she’s discovering and using to overcome blockages, to overcome this fear of “not beeing good or talented enough” that all of us experience sometimes.]]></description><post-id xmlns="com-wordpress:feed-additions:1">106</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/following-the-inner-voice-part-2-of-2/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/following-the-inner-voice-part-2-of-2/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_12_following_the_inner_voice_jessie_sanbrook_part_2_of_2.mp3" length="27532878" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/4/s/feed/c/mp3/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_12_following_the_inner_voice_jessie_sanbrook_part_2_of_2.mp3" length="27532878" type="audio/mpeg"/>
 
 		<itunes:duration>00:32:29</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1364,27 +1414,27 @@ What I really want to know, is how she did it. How she overcame the sometimes pa
 		<itunes:title>Following The Inner Voice - Jessie Sanbrook - part 2 of 2</itunes:title>
 		<itunes:episode>12</itunes:episode>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:summary><![CDATA[She decided to follow her heart and move to Berlin. A city where she would be alone, without family and friends. A city that would cost her longterm relationship to end. No one waited for her in Berlin, no one asked her to come. She didn't even know the language. But she had this idea, this little voice that told her that something brilliant would be waiting for her there. I want you to meet Jessie Sanbrook @jessie_sanbrook, one of the most smiliest, vibrant and fascinating human beeings I've ever met. For me, she is the best example of what can happen if you follow your heart. If you follow your dream. Even if it means taking a big risk and leaving everything behind. There is no dream without sacrifice.
+		<itunes:summary><![CDATA[She decided to follow her heart and move to Berlin. A city where she would be alone, without family and friends. A city that would cost her longterm relationship to end. No one waited for her in Berlin, no one asked her to come. She didn&#039;t even know the language. But she had this idea, this little voice that told her that something brilliant would be waiting for her there. I want you to meet Jessie Sanbrook @jessie_sanbrook, one of the most smiliest, vibrant and fascinating human beeings I&#039;ve ever met. For me, she is the best example of what can happen if you follow your heart. If you follow your dream. Even if it means taking a big risk and leaving everything behind. There is no dream without sacrifice.
 
 Fast forward a year since arriving in Germany, and she’s now established The Design Kids Berlin community @thedesignkids (with over 600 participants), successfully running her own business in Graphic Design and Illustration, and traveling the world.
 
 What I really want to know, is how she did it. How she overcame the sometimes paralysing fear of starting a new life and do &quot;what the heart is telling you&quot;. We dive into discussion about creativity and what tools she’s discovering and using to overcome blockages, to overcome this fear of “not beeing good or talented enough” that all of us experience sometimes.]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/64858122_1330863130396933_1852748380669739008_o-e1584044413581.jpg?fit=400%2C400&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/64858122_1330863130396933_1852748380669739008_o-e1584044413581.jpg"/>
 		<content:encoded><![CDATA[
-<h4 class="has-text-align-center"> What can happen if you follow your path. </h4>
+<h4 class="has-text-align-center wp-block-heading"> What can happen if you follow your path. </h4>
 
 
 <div>She decided to follow her heart and move to Berlin. A city where she would be alone, without family and friends. A city that would cost her longterm relationship to end. No one waited for her in Berlin, no one asked her to come. She didn&#8217;t even know the language. But she had this idea, this little voice that told her that something brilliant would be waiting for her there. I want you to meet Jessie Sanbrook <a href="https://www.instagram.com/jessie_sanbrook/">@jessie_sanbrook</a>, one of the most smiliest, vibrant and fascinating human beeings I&#8217;ve ever met. For me, she is the best example of what can happen if you follow your heart. If you follow your dream. Even if it means taking a big risk and leaving everything behind. There is no dream without sacrifice.
 <p> </p>
 <p>Fast forward a year since arriving in Germany, and she’s now established The Design Kids Berlin community <a href="https://www.instagram.com/thedesignkids/">@thedesignkids</a> (with over 600 participants), successfully running her own <a href="http://www.jessiesanbrook.com/">business in Graphic Design and Illustration</a>, and traveling the world.</p>
-<p>What I really want to know, is how she did it. How she overcame the sometimes paralysing fear of starting a new life and do &#8222;what the heart is telling you&#8220;. We dive into discussion about creativity and what tools she’s discovering and using to overcome blockages, to overcome this fear of “not beeing good or talented enough” that all of us experience sometimes.</p>
-</div><p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/following-the-inner-voice-part-2-of-2/">Following The Inner Voice &#8211; Jessie Sanbrook &#8211; part 2 of 2</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>What I really want to know, is how she did it. How she overcame the sometimes paralysing fear of starting a new life and do &#8220;what the heart is telling you&#8221;. We dive into discussion about creativity and what tools she’s discovering and using to overcome blockages, to overcome this fear of “not beeing good or talented enough” that all of us experience sometimes.</p>
+</div><p>Der Beitrag <a href="https://thesharingspace.de/following-the-inner-voice-part-2-of-2/">Following The Inner Voice &#8211; Jessie Sanbrook &#8211; part 2 of 2</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>1</itunes:season>	</item>
 	
 	<item>
         <title>Following The Inner Voice - Jessie Sanbrook - part 1 of 2</title>
-		<link>https://thesharing.space/following-the-inner-voice-part-1-of-2/</link>
+		<link>https://thesharingspace.de/following-the-inner-voice-part-1-of-2/</link>
 		<pubDate>Sat, 22 Jun 2019 12:53:31 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-02-26t20:57:43+00:00-cd8e93160d14ef2</guid>
     	<description><![CDATA[She decided to follow her heart and move to Berlin. A city where she would be alone, without family and friends. A city that would cost her longterm relationship to end. No one waited for her in Berlin, no one asked her to come. She didn't even know the language. But she had this idea, this little voice that told her that something brilliant would be waiting for her there. I want you to meet Jessie Sanbrook @jessie_sanbrook, one of the most smiliest, vibrant and fascinating human beeings I've ever met. For me, she is the best example of what can happen if you follow your heart. If you follow your dream. Even if it means taking a big risk and leaving everything behind. There is no dream without sacrifice.
@@ -1392,9 +1442,9 @@ What I really want to know, is how she did it. How she overcame the sometimes pa
 Fast forward a year since arriving in Germany, and she’s now established The Design Kids Berlin community @thedesignkids (with over 600 participants), successfully running her own business in Graphic Design and Illustration, and traveling the world.
 
 What I really want to know, is how she did it. How she overcame the sometimes paralysing fear of starting a new life and do "what the heart is telling you". We dive into discussion about creativity and what tools she’s discovering and using to overcome blockages, to overcome this fear of “not beeing good or talented enough” that all of us experience sometimes.]]></description><post-id xmlns="com-wordpress:feed-additions:1">105</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/following-the-inner-voice-part-1-of-2/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/following-the-inner-voice-part-1-of-2/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_11_following_the_inner_voice_jessie_sanbrook_part_1_of_2.mp3" length="27785950" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/6/s/feed/c/mp3/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_11_following_the_inner_voice_jessie_sanbrook_part_1_of_2.mp3" length="27785950" type="audio/mpeg"/>
 
 		<itunes:duration>00:32:47</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1402,40 +1452,40 @@ What I really want to know, is how she did it. How she overcame the sometimes pa
 		<itunes:title>Following The Inner Voice - Jessie Sanbrook - part 1 of 2</itunes:title>
 		<itunes:episode>11</itunes:episode>
 		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:summary><![CDATA[She decided to follow her heart and move to Berlin. A city where she would be alone, without family and friends. A city that would cost her longterm relationship to end. No one waited for her in Berlin, no one asked her to come. She didn't even know the language. But she had this idea, this little voice that told her that something brilliant would be waiting for her there. I want you to meet Jessie Sanbrook @jessie_sanbrook, one of the most smiliest, vibrant and fascinating human beeings I've ever met. For me, she is the best example of what can happen if you follow your heart. If you follow your dream. Even if it means taking a big risk and leaving everything behind. There is no dream without sacrifice.
+		<itunes:summary><![CDATA[She decided to follow her heart and move to Berlin. A city where she would be alone, without family and friends. A city that would cost her longterm relationship to end. No one waited for her in Berlin, no one asked her to come. She didn&#039;t even know the language. But she had this idea, this little voice that told her that something brilliant would be waiting for her there. I want you to meet Jessie Sanbrook @jessie_sanbrook, one of the most smiliest, vibrant and fascinating human beeings I&#039;ve ever met. For me, she is the best example of what can happen if you follow your heart. If you follow your dream. Even if it means taking a big risk and leaving everything behind. There is no dream without sacrifice.
 
 Fast forward a year since arriving in Germany, and she’s now established The Design Kids Berlin community @thedesignkids (with over 600 participants), successfully running her own business in Graphic Design and Illustration, and traveling the world.
 
 What I really want to know, is how she did it. How she overcame the sometimes paralysing fear of starting a new life and do &quot;what the heart is telling you&quot;. We dive into discussion about creativity and what tools she’s discovering and using to overcome blockages, to overcome this fear of “not beeing good or talented enough” that all of us experience sometimes.]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/64858122_1330863130396933_1852748380669739008_o-e1584044413581.jpg?fit=400%2C400&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/64858122_1330863130396933_1852748380669739008_o-e1584044413581.jpg"/>
 		<content:encoded><![CDATA[<a href="https://open.spotify.com/episode/0WyIdPKrOqcD5uHxuAiDec" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-spotify" style="font-size:13px;color:#FFFFFF"></i> Spotify</span></a>
 <a href="https://podcasts.apple.com/de/podcast/following-the-inner-voice-jessie-sanbrook-part-1-of-2/id1458014847?i=1000468309668" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-apple" style="font-size:13px;color:#FFFFFF"></i> Apple Podcasts</span></a>
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb3VsLXNwYWNlLm5ldC9mZWVkL21wMw/episode/cG9kbG92ZS0yMDIwLTAyLTI2dDIwOjU3OjQzKzAwOjAwLWNkOGU5MzE2MGQxNGVmMg?sa=X&amp;ved=2ahUKEwi-y9DJ8JPsAhUT-BoKHbuUBLoQkfYCegQIARAF" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a> <a href="https://youtu.be/HMynjVaTl7A" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Youtube</span></a>
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb3VsLXNwYWNlLm5ldC9mZWVkL21wMw/episode/cG9kbG92ZS0yMDIwLTAyLTI2dDIwOjU3OjQzKzAwOjAwLWNkOGU5MzE2MGQxNGVmMg?sa=X&#038;ved=2ahUKEwi-y9DJ8JPsAhUT-BoKHbuUBLoQkfYCegQIARAF" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a> <a href="https://youtu.be/HMynjVaTl7A" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Youtube</span></a>
 <p> </p>
 
 
-<h4 class="has-text-align-center">What can happen if you follow your path</h4>
+<h4 class="has-text-align-center wp-block-heading">What can happen if you follow your path</h4>
 
 
 <div>She decided to follow her heart and move to Berlin. A city where she would be alone, without family and friends. A city that would cost her longterm relationship to end. No one waited for her in Berlin, no one asked her to come. She didn&#8217;t even know the language. But she had this idea, this little voice that told her that something brilliant would be waiting for her there. I want you to meet Jessie Sanbrook <a href="https://www.instagram.com/jessie_sanbrook/">@jessie_sanbrook</a>, one of the most smiliest, vibrant and fascinating human beeings I&#8217;ve ever met. For me, she is the best example of what can happen if you follow your heart. If you follow your dream. Even if it means taking a big risk and leaving everything behind. There is no dream without sacrifice.
 <p> </p>
 <p>Fast forward a year since arriving in Germany, and she’s now established The Design Kids Berlin community <a href="https://www.instagram.com/thedesignkids/">@thedesignkids</a> (with over 600 participants), successfully running her own <a href="http://www.jessiesanbrook.com/">business in Graphic Design and Illustration</a>, and traveling the world.</p>
-<p>What I really want to know, is how she did it. How she overcame the sometimes paralysing fear of starting a new life and do &#8222;what the heart is telling you&#8220;. We dive into discussion about creativity and what tools she’s discovering and using to overcome blockages, to overcome this fear of “not beeing good or talented enough” that all of us experience sometimes.</p>
-</div><p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/following-the-inner-voice-part-1-of-2/">Following The Inner Voice &#8211; Jessie Sanbrook &#8211; part 1 of 2</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>What I really want to know, is how she did it. How she overcame the sometimes paralysing fear of starting a new life and do &#8220;what the heart is telling you&#8221;. We dive into discussion about creativity and what tools she’s discovering and using to overcome blockages, to overcome this fear of “not beeing good or talented enough” that all of us experience sometimes.</p>
+</div><p>Der Beitrag <a href="https://thesharingspace.de/following-the-inner-voice-part-1-of-2/">Following The Inner Voice &#8211; Jessie Sanbrook &#8211; part 1 of 2</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>1</itunes:season>	</item>
 	
 	<item>
         <title>Lebensunterhalt mit nachhaltiger Entwicklung verdienen  - Franzi</title>
-		<link>https://thesharing.space/lebensunterhalt-mit-nachhaltiger-entwicklung-franzi/</link>
+		<link>https://thesharingspace.de/lebensunterhalt-mit-nachhaltiger-entwicklung-franzi/</link>
 		<pubDate>Mon, 10 Jun 2019 12:55:29 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-02-26t20:57:42+00:00-af2a2ec4aced02e</guid>
     	<description><![CDATA[Während Franzi Umweltplanung und Ingenieursökologie studiert hat, setzte sie ein Projekt in Kamerun um, bei dem sie unter anderem ein Abfallmanagementsystem in einem Dorf mit aufgebaut hat. Ihr Wissen vom Studium hat sie dabei den Kindern, Erwachsenen sowie den Politikern des Dorfes näher gebracht und stand deshalb sogar in der Zeitung.
 Später fand ein Projekt in Südindien Franzi, bei dem es darum ging ein Bildungszentrum für Kleinbauern aufzubauen, wo sie quasi alleine bei null angefangen hat. Es war ein langer Weg, aber mittlerweile arbeitet sie mit einem festen Team an dem Projekt und es kommen immer wieder Freiwillige aus der ganzen Welt, um sie zu unterstützen. Nicht zuletzt weil sie zahlreichen Stiftungen an Bord holen konnte und sie mit dem Projekt, die Google Impact Challenge
 gewonnen hat. Ich habe immer ihren Ehrgeiz und ihre Ausdauer bewundert und freue mich riesig sie dir jetzt vorzustellen.]]></description><post-id xmlns="com-wordpress:feed-additions:1">104</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/lebensunterhalt-mit-nachhaltiger-entwicklung-franzi/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/lebensunterhalt-mit-nachhaltiger-entwicklung-franzi/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_10_lebensunterhalt_mit_nachhaltiger_entwicklung_verdienen_franzi.mp3" length="32859539" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/7/s/feed/c/mp3/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_10_lebensunterhalt_mit_nachhaltiger_entwicklung_verdienen_franzi.mp3" length="32859539" type="audio/mpeg"/>
 
 		<itunes:duration>00:38:49</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1446,9 +1496,9 @@ gewonnen hat. Ich habe immer ihren Ehrgeiz und ihre Ausdauer bewundert und freue
 		<itunes:summary><![CDATA[Während Franzi Umweltplanung und Ingenieursökologie studiert hat, setzte sie ein Projekt in Kamerun um, bei dem sie unter anderem ein Abfallmanagementsystem in einem Dorf mit aufgebaut hat. Ihr Wissen vom Studium hat sie dabei den Kindern, Erwachsenen sowie den Politikern des Dorfes näher gebracht und stand deshalb sogar in der Zeitung.
 Später fand ein Projekt in Südindien Franzi, bei dem es darum ging ein Bildungszentrum für Kleinbauern aufzubauen, wo sie quasi alleine bei null angefangen hat. Es war ein langer Weg, aber mittlerweile arbeitet sie mit einem festen Team an dem Projekt und es kommen immer wieder Freiwillige aus der ganzen Welt, um sie zu unterstützen. Nicht zuletzt weil sie zahlreichen Stiftungen an Bord holen konnte und sie mit dem Projekt, die Google Impact Challenge
 gewonnen hat. Ich habe immer ihren Ehrgeiz und ihre Ausdauer bewundert und freue mich riesig sie dir jetzt vorzustellen.]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/photo5233719058552171937-e1586788371137.jpg?fit=400%2C401&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/photo5233719058552171937-e1586788371137.jpg"/>
 		<content:encoded><![CDATA[
-<h4>Wie aus Ehrenamtlichkeit einen Beruf entstehen kann </h4>
+<h4 class="wp-block-heading">Wie aus Ehrenamtlichkeit einen Beruf entstehen kann </h4>
 
 
 <div>Während Franzi Umweltplanung und Ingenieursökologie studiert hat, setzte sie ein Projekt in Kamerun um, bei dem sie unter anderem ein Abfallmanagementsystem in einem Dorf mit aufgebaut hat. Ihr Wissen vom Studium hat sie dabei den Kindern, Erwachsenen sowie den Politikern des Dorfes näher gebracht und stand deshalb sogar in der Zeitung.<br />Später fand ein Projekt in Südindien Franzi, bei dem es darum ging ein Bildungszentrum für Kleinbauern aufzubauen, wo sie quasi alleine bei null angefangen hat. Es war ein langer Weg, aber mittlerweile arbeitet sie mit einem festen Team an dem Projekt und es kommen immer wieder Freiwillige aus der ganzen Welt, um sie zu unterstützen. Nicht zuletzt weil sie zahlreichen Stiftungen an Bord holen konnte und sie mit dem Projekt, die Google Impact Challenge<br />gewonnen hat. Ich habe immer ihren Ehrgeiz und ihre Ausdauer bewundert und freue mich riesig sie dir jetzt vorzustellen.</div>
@@ -1464,21 +1514,21 @@ gewonnen hat. Ich habe immer ihren Ehrgeiz und ihre Ausdauer bewundert und freue
 <p>Weitere Links:</p>
 <p><a href="https://www.giz.de/">https://www.giz.de/</a></p>
 <p><a href="https://www.un.org/en/">https://www.un.org/en/</a></p>
-</div><p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/lebensunterhalt-mit-nachhaltiger-entwicklung-franzi/">Lebensunterhalt mit nachhaltiger Entwicklung verdienen  &#8211; Franzi</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+</div><p>Der Beitrag <a href="https://thesharingspace.de/lebensunterhalt-mit-nachhaltiger-entwicklung-franzi/">Lebensunterhalt mit nachhaltiger Entwicklung verdienen  &#8211; Franzi</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>1</itunes:season>	</item>
 	
 	<item>
         <title>Ängste und Schmerz überwinden - Fritz Schnitzer Teil 2 von 2</title>
-		<link>https://thesharing.space/aengste-und-schmerz-fritz-schnitzer-teil-2-von-2/</link>
+		<link>https://thesharingspace.de/aengste-und-schmerz-fritz-schnitzer-teil-2-von-2/</link>
 		<pubDate>Sat, 11 May 2019 06:00:00 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-02-26t20:57:41+00:00-381dc3df7e15e35</guid>
     	<description><![CDATA[Der zweite Teil in dem ich versuche zu verstehen wie Fritz es geschafft hat sein Leben umzukrempeln.
 
 Fritz ist ein talentierter Designer, Enterpreneur und zukünftig auch Podcaster. Er möchte, dass Menschen aus seiner Erfahrung lernen und hält Reden, hat einen Zeichenkurs für Menschen die glauben nicht zeichnen zu können und einen YouTube Kanal in dem er regelmäßig sich und seine Gedanken aufnimmt. Und in allem kann man sein Herz spüren. Es ist oft fast unerträglich wie ehrlich er ist und wie er trotz heftigster Angst weiterhin mit einem offenen Herzen durch die Welt läuft.]]></description><post-id xmlns="com-wordpress:feed-additions:1">103</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/aengste-und-schmerz-fritz-schnitzer-teil-2-von-2/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/aengste-und-schmerz-fritz-schnitzer-teil-2-von-2/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_9_aengste_und_schmerz_ueberwinden_fritz_schnitzer_teil_2_von_2.mp3" length="25856003" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/8/s/feed/c/mp3/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_9_aengste_und_schmerz_ueberwinden_fritz_schnitzer_teil_2_von_2.mp3" length="25856003" type="audio/mpeg"/>
 
 		<itunes:duration>00:30:29</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1489,9 +1539,9 @@ Fritz ist ein talentierter Designer, Enterpreneur und zukünftig auch Podcaster.
 		<itunes:summary><![CDATA[Der zweite Teil in dem ich versuche zu verstehen wie Fritz es geschafft hat sein Leben umzukrempeln.
 
 Fritz ist ein talentierter Designer, Enterpreneur und zukünftig auch Podcaster. Er möchte, dass Menschen aus seiner Erfahrung lernen und hält Reden, hat einen Zeichenkurs für Menschen die glauben nicht zeichnen zu können und einen YouTube Kanal in dem er regelmäßig sich und seine Gedanken aufnimmt. Und in allem kann man sein Herz spüren. Es ist oft fast unerträglich wie ehrlich er ist und wie er trotz heftigster Angst weiterhin mit einem offenen Herzen durch die Welt läuft.]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/Fritz.jpg?fit=960%2C960&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/Fritz.jpg"/>
 		<content:encoded><![CDATA[
-<h4>Fritz stellt sich gnadenlos seinen Ängsten, wie schafft er das? </h4>
+<h4 class="wp-block-heading">Fritz stellt sich gnadenlos seinen Ängsten, wie schafft er das? </h4>
 
 
 <div>Der zweite Teil in dem ich versuche zu verstehen wie Fritz es geschafft hat sein Leben umzukrempeln.<p></p>
@@ -1504,13 +1554,13 @@ Fritz ist ein talentierter Designer, Enterpreneur und zukünftig auch Podcaster.
 
 <a href="https://open.spotify.com/episode/7wn3NDVzET8wO9KEkjI9iD" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-spotify" style="font-size:13px;color:#FFFFFF"></i> Spotify</span></a>
 <a href="https://podcasts.apple.com/de/podcast/%C3%A4ngste-und-schmerz-%C3%BCberwinden-fritz-schnitzer-teil-2-von-2/id1458014847?i=1000468309453" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-apple" style="font-size:13px;color:#FFFFFF"></i> Apple Podcasts</span></a>
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb3VsLXNwYWNlLm5ldC9mZWVkL21wMw/episode/cG9kbG92ZS0yMDIwLTAyLTI2dDIwOjU3OjQxKzAwOjAwLTM4MWRjM2RmN2UxNWUzNQ?ved=0CBkQzsICahcKEwjAzZWviIfqAhUAAAAAHQAAAAAQBA" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a><p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/aengste-und-schmerz-fritz-schnitzer-teil-2-von-2/">Ängste und Schmerz überwinden &#8211; Fritz Schnitzer Teil 2 von 2</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb3VsLXNwYWNlLm5ldC9mZWVkL21wMw/episode/cG9kbG92ZS0yMDIwLTAyLTI2dDIwOjU3OjQxKzAwOjAwLTM4MWRjM2RmN2UxNWUzNQ?ved=0CBkQzsICahcKEwjAzZWviIfqAhUAAAAAHQAAAAAQBA" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a><p>Der Beitrag <a href="https://thesharingspace.de/aengste-und-schmerz-fritz-schnitzer-teil-2-von-2/">Ängste und Schmerz überwinden &#8211; Fritz Schnitzer Teil 2 von 2</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>1</itunes:season>	</item>
 	
 	<item>
         <title>Ängste und Schmerz überwinden - Fritz Schnitzer Teil 1 von 2</title>
-		<link>https://thesharing.space/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/</link>
+		<link>https://thesharingspace.de/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/</link>
 		<pubDate>Sat, 04 May 2019 06:16:08 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-02-26t20:57:40+00:00-e98a09968af0b3e</guid>
     	<description><![CDATA[Fritz ist ein talentierter Designer, Enterpreneur und zukünftig auch Podcaster. Er möchte, dass Menschen aus seiner Erfahrung lernen und hält Reden, hat einen Zeichenkurs für Menschen die glauben nicht zeichnen zu können und einen YouTube Kanal in dem er regelmäßig sich und seine Gedanken aufnimmt. Und in allem kann man sein Herz spüren. Es ist oft fast unerträglich wie ehrlich er ist und wie er trotz heftigster Angst weiterhin mit einem offenen Herzen durch die Welt läuft.
@@ -1518,9 +1568,9 @@ Fritz ist ein talentierter Designer, Enterpreneur und zukünftig auch Podcaster.
 Wem diese Beschreibung noch nicht reicht, muss seine Geschichte mit seinem Herzen hören und es selbst erfahren.
 
 Er ist einer der mutigsten Menschen die ich kenne und ich bin so froh, dass du ihn nun auch kennenlernst.]]></description><post-id xmlns="com-wordpress:feed-additions:1">102</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_8_aengste_und_schmerz_ueberwinden_fritz_schnitzer_teil_1_von_2.mp3" length="20345644" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/10/s/feed/c/mp3/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_8_aengste_und_schmerz_ueberwinden_fritz_schnitzer_teil_1_von_2.mp3" length="20345644" type="audio/mpeg"/>
 
 		<itunes:duration>00:23:56</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1533,14 +1583,14 @@ Er ist einer der mutigsten Menschen die ich kenne und ich bin so froh, dass du i
 Wem diese Beschreibung noch nicht reicht, muss seine Geschichte mit seinem Herzen hören und es selbst erfahren.
 
 Er ist einer der mutigsten Menschen die ich kenne und ich bin so froh, dass du ihn nun auch kennenlernst.]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/Fritz.jpg?fit=960%2C960&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/Fritz.jpg"/>
 		<content:encoded><![CDATA[<a href="https://open.spotify.com/episode/52wbFhgcrJsmsl8qD6SQBX" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-spotify" style="font-size:13px;color:#FFFFFF"></i> Spotify</span></a>
 <a href="https://podcasts.apple.com/de/podcast/%C3%A4ngste-und-schmerz-%C3%BCberwinden-fritz-schnitzer-teil-1-von-2/id1458014847?i=1000468309667" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-apple" style="font-size:13px;color:#FFFFFF"></i> Apple Podcasts</span></a>
 <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb3VsLXNwYWNlLm5ldC9mZWVkL21wMw/episode/cG9kbG92ZS0yMDIwLTAyLTI2dDIwOjU3OjQwKzAwOjAwLWU5OGEwOTk2OGFmMGIzZQ?ved=0CBsQzsICahcKEwjAzZWviIfqAhUAAAAAHQAAAAAQBA" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#5d84a6;border-color:#4b6a85;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#8ea9c1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a>
 <p></p>
 
 
-<h4 class="has-text-align-center">Fritz ist ein talentierter Designer aber bis dahin war es ein langer Weg&#8230; </h4>
+<h4 class="has-text-align-center wp-block-heading">Fritz ist ein talentierter Designer aber bis dahin war es ein langer Weg&#8230; </h4>
 
 
 <div>Fritz ist ein talentierter <a href="https://www.behance.net/schnitzer1576">Designer</a>, <a href="http://www.fritzschnitzer.com/">Enterpreneur </a>und zukünftig auch Podcaster. Er möchte, dass Menschen aus seiner Erfahrung lernen und hält Reden, hat einen <a href="https://www.skillshare.com/classes/This-Is-NOT-a-Drawing-Course-How-To-Overcome-the-limiting-Belief-I-CANT-DRAW/1592669365/classroom/discussions?via=video-control-bar&amp;learnMode=1">Zeichenkurs für Menschen die glauben nicht zeichnen zu können</a> und einen <a href="https://www.youtube.com/channel/UCWMhw23R4HOPxQeJybZDE4w">YouTube Kanal </a>in dem er regelmäßig sich und seine Gedanken aufnimmt. Und in allem kann man sein Herz spüren. Es ist oft fast unerträglich wie ehrlich er ist und wie er trotz heftigster Angst weiterhin mit einem offenen Herzen durch die Welt läuft.<p></p>
@@ -1550,13 +1600,13 @@ Er ist einer der mutigsten Menschen die ich kenne und ich bin so froh, dass du i
 </ul>
 <p>Wem diese Beschreibung noch nicht reicht, muss seine Geschichte mit seinem Herzen hören und es selbst erfahren.</p>
 <p>Er ist einer der mutigsten Menschen die ich kenne und ich bin so froh, dass du ihn nun auch kennenlernst.</p>
-</div><p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/">Ängste und Schmerz überwinden &#8211; Fritz Schnitzer Teil 1 von 2</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+</div><p>Der Beitrag <a href="https://thesharingspace.de/aengste-und-schmerz-fritz-schnitzer-teil-1-von-2/">Ängste und Schmerz überwinden &#8211; Fritz Schnitzer Teil 1 von 2</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>1</itunes:season>	</item>
 	
 	<item>
         <title>Business mit Kunst? - Tobi und Phil</title>
-		<link>https://thesharing.space/business-mit-kunst-tobi-phil/</link>
+		<link>https://thesharingspace.de/business-mit-kunst-tobi-phil/</link>
 		<pubDate>Sat, 20 Apr 2019 08:00:00 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-02-26t20:57:39+00:00-59f6e7ec7555db1</guid>
     	<description><![CDATA[Hey Du! Als ich damals einen Studiengang auswählen musste, gabs von meiner Familie nur einen Rat. Such dir auf jeden Fall etwas, womit Du später Geld verdienen kannst. Ich habe dann schließlich Maschinenbau studiert, was mir den so ziemlich sichersten Arbeitsplatz mit gutem Gehalt versprach und es war tatsächlich etwas, was ich mir sehr gut vorstellen konnte. Nach dem Studium musste ich aber feststellen, dass viele Menschen die den Studiengang nur wegen Geld studiert haben im Job total unglücklich sind und im Endeffekt versuchen mit Geld mehr Glückseligkeit zu kaufen.
@@ -1564,9 +1614,9 @@ Er ist einer der mutigsten Menschen die ich kenne und ich bin so froh, dass du i
 Tobi und Phil haben den unsicheren Weg eingeschlagen und haben Medientechnik studiert. Der Studiengang hat den Ruf, dass sogut wie keiner am Ende beruflich wirklich etwas in dem Bereich macht. Aber die beiden sind supertalentiert und haben die Firma Kukuluru Media gegründet. Die Firma wächst und sie konnten vor Kurzem sogar in ein neues Büro umziehen.
 
 Ich möchte nun von ihnen wissen wie sie es geschafft haben aus ihrem Hobby einen Beruf zu machen. Wie denken die beiden und wieso haben sie in erster Linie etwas mit Medien studiert? Und worauf arbeiten sie hin?]]></description><post-id xmlns="com-wordpress:feed-additions:1">101</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/business-mit-kunst-tobi-phil/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/business-mit-kunst-tobi-phil/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_7_business_mit_kunst_tobi_und_phil.mp3" length="25528122" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/11/s/feed/c/mp3/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_7_business_mit_kunst_tobi_und_phil.mp3" length="25528122" type="audio/mpeg"/>
 
 		<itunes:duration>00:30:06</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1579,28 +1629,28 @@ Ich möchte nun von ihnen wissen wie sie es geschafft haben aus ihrem Hobby eine
 Tobi und Phil haben den unsicheren Weg eingeschlagen und haben Medientechnik studiert. Der Studiengang hat den Ruf, dass sogut wie keiner am Ende beruflich wirklich etwas in dem Bereich macht. Aber die beiden sind supertalentiert und haben die Firma Kukuluru Media gegründet. Die Firma wächst und sie konnten vor Kurzem sogar in ein neues Büro umziehen.
 
 Ich möchte nun von ihnen wissen wie sie es geschafft haben aus ihrem Hobby einen Beruf zu machen. Wie denken die beiden und wieso haben sie in erster Linie etwas mit Medien studiert? Und worauf arbeiten sie hin?]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/GeM_Logo-e1584044323872.png?fit=400%2C400&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/GeM_Logo-e1584044323872.png"/>
 		<content:encoded><![CDATA[
-<h4>Man kann man im Bereich Medien wirklich Geld verdienen? </h4>
+<h4 class="wp-block-heading">Man kann man im Bereich Medien wirklich Geld verdienen? </h4>
 
 
 <div>
 <p>Hey Du! Als ich damals einen Studiengang auswählen musste, gabs von meiner Familie nur einen Rat. Such dir auf jeden Fall etwas, womit Du später Geld verdienen kannst. Ich habe dann schließlich Maschinenbau studiert, was mir den so ziemlich sichersten Arbeitsplatz mit gutem Gehalt versprach und es war tatsächlich etwas, was ich mir sehr gut vorstellen konnte. Nach dem Studium musste ich aber feststellen, dass viele Menschen die den Studiengang nur wegen Geld studiert haben im Job total unglücklich sind und im Endeffekt versuchen mit Geld mehr Glückseligkeit zu kaufen.</p>
 <p>Tobi und Phil haben den unsicheren Weg eingeschlagen und haben Medientechnik studiert. Der Studiengang hat den Ruf, dass sogut wie keiner am Ende beruflich wirklich etwas in dem Bereich macht. Aber die beiden sind supertalentiert und haben die Firma <a href="https://www.kukuluru-media.com/">Kukuluru Media </a>gegründet. Die Firma wächst und sie konnten vor Kurzem sogar in ein neues Büro umziehen.</p>
 <p>Ich möchte nun von ihnen wissen wie sie es geschafft haben aus ihrem Hobby einen Beruf zu machen. Wie denken die beiden und wieso haben sie in erster Linie etwas mit Medien studiert? Und worauf arbeiten sie hin?</p>
-</div><p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/business-mit-kunst-tobi-phil/">Business mit Kunst? &#8211; Tobi und Phil</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+</div><p>Der Beitrag <a href="https://thesharingspace.de/business-mit-kunst-tobi-phil/">Business mit Kunst? &#8211; Tobi und Phil</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>1</itunes:season>	</item>
 	
 	<item>
         <title>Der geborene Altruist - Jakob - Teil 2 von 2</title>
-		<link>https://thesharing.space/der-geborene-altruist-jakob-teil-2-von-2/</link>
+		<link>https://thesharingspace.de/der-geborene-altruist-jakob-teil-2-von-2/</link>
 		<pubDate>Sat, 13 Apr 2019 08:00:00 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-02-26t20:57:38+00:00-d03f0aa6efb8cda</guid>
     	<description><![CDATA[Der zweite Teil, in dem ich versuche zu verstehen, wie Jakob denkt und was ihn dazu bringt so viele Projekte zu stemmen.]]></description><post-id xmlns="com-wordpress:feed-additions:1">100</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/der-geborene-altruist-jakob-teil-2-von-2/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/der-geborene-altruist-jakob-teil-2-von-2/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_6_der_geborene_altruist_jacob_teil_2_von_2.mp3" length="21159607" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/12/s/feed/c/mp3/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_6_der_geborene_altruist_jacob_teil_2_von_2.mp3" length="21159607" type="audio/mpeg"/>
 
 		<itunes:duration>00:24:54</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1609,9 +1659,9 @@ Ich möchte nun von ihnen wissen wie sie es geschafft haben aus ihrem Hobby eine
 		<itunes:episode>6</itunes:episode>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:summary><![CDATA[Der zweite Teil, in dem ich versuche zu verstehen, wie Jakob denkt und was ihn dazu bringt so viele Projekte zu stemmen.]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/GeM_Logo-e1584044323872.png?fit=400%2C400&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/GeM_Logo-e1584044323872.png"/>
 		<content:encoded><![CDATA[
-<h4>Wie entsteht der Wunsch anderen Menschen zu helfen? </h4>
+<h4 class="wp-block-heading">Wie entsteht der Wunsch anderen Menschen zu helfen? </h4>
 
 
 <div>Der zweite Teil, in dem ich versuche zu verstehen, wie Jakob denkt und was ihn dazu bringt so viele Projekte zu stemmen.
@@ -1622,17 +1672,17 @@ Ich möchte nun von ihnen wissen wie sie es geschafft haben aus ihrem Hobby eine
 <p>Children for a better World <a href="https://www.children.de/">https://www.children.de/</a><br />Technik ohne Grenzen <a href="https://www.teog.ngo/">https://www.teog.ngo/</a></p>
 </div>
 
-<p><a href="https://soul-space.net/der-geborene-altruist-jakob-teil-1-von-2/">Und hier geht es zum 1. Teil des Interviews</a></p>
+<p><a href="https://thesharingspace.de/der-geborene-altruist-jakob-teil-1-von-2/">Und hier geht es zum 1. Teil des Interviews</a></p>
 
 
 <p></p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/der-geborene-altruist-jakob-teil-2-von-2/">Der geborene Altruist &#8211; Jakob &#8211; Teil 2 von 2</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/der-geborene-altruist-jakob-teil-2-von-2/">Der geborene Altruist &#8211; Jakob &#8211; Teil 2 von 2</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>1</itunes:season>	</item>
 	
 	<item>
         <title>Der geborene Altruist - Jakob - Teil 1 von 2</title>
-		<link>https://thesharing.space/der-geborene-altruist-jakob-teil-1-von-2/</link>
+		<link>https://thesharingspace.de/der-geborene-altruist-jakob-teil-1-von-2/</link>
 		<pubDate>Sat, 06 Apr 2019 08:00:00 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-02-26t20:57:38+00:00-4c6e291d3519eba</guid>
     	<description><![CDATA[Heute habe ich Jakob zu Gast. Ein Mensch der gefühlt ständig im Ausland an Projekten arbeitet.
@@ -1645,9 +1695,9 @@ Außerdem ist er Hundetrainer Ausbilder, Buchautor und hält Vorlesungen an Unis
 Wir sprechen darüber warum er als Umweltingenieur zusätzlich Philosophie studiert hat und wie es seine Denkweise verändert hat.
 Und vor allem möchte ich verstehen woher er die Motivation nimmt so viele ehrenamtliche Projekte zu machen. Was ist sein Antrieb? Warum macht er das alles?
 Und vor allem, was macht er jetzt nach dem Studium mit diesen Erfahrungen?]]></description><post-id xmlns="com-wordpress:feed-additions:1">99</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/der-geborene-altruist-jakob-teil-1-von-2/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/der-geborene-altruist-jakob-teil-1-von-2/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_5_der_geborene_altruist_jacob_teil_1_von_2.mp3" length="20112547" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/13/s/feed/c/mp3/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_5_der_geborene_altruist_jacob_teil_1_von_2.mp3" length="20112547" type="audio/mpeg"/>
 
 		<itunes:duration>00:23:39</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1665,9 +1715,9 @@ Außerdem ist er Hundetrainer Ausbilder, Buchautor und hält Vorlesungen an Unis
 Wir sprechen darüber warum er als Umweltingenieur zusätzlich Philosophie studiert hat und wie es seine Denkweise verändert hat.
 Und vor allem möchte ich verstehen woher er die Motivation nimmt so viele ehrenamtliche Projekte zu machen. Was ist sein Antrieb? Warum macht er das alles?
 Und vor allem, was macht er jetzt nach dem Studium mit diesen Erfahrungen?]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/GeM_Logo-e1584044323872.png?fit=400%2C400&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/GeM_Logo-e1584044323872.png"/>
 		<content:encoded><![CDATA[
-<h4>Wie entsteht der Wunsch anderen Menschen zu helfen? </h4>
+<h4 class="wp-block-heading">Wie entsteht der Wunsch anderen Menschen zu helfen? </h4>
 
 
 <div>Heute habe ich Jakob zu Gast. Ein Mensch der gefühlt ständig im Ausland an Projekten arbeitet.<p></p>
@@ -1680,17 +1730,17 @@ Und vor allem, was macht er jetzt nach dem Studium mit diesen Erfahrungen?]]></i
 <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb3VsLXNwYWNlLm5ldC9mZWVkL21wMw/episode/cG9kbG92ZS0yMDIwLTAyLTI2dDIwOjU3OjM4KzAwOjAwLTRjNmUyOTFkMzUxOWViYQ?ved=2ahUKEwi4zM6Aw8zqAhVBlxoKHU0tBnYQkfYCegQIARAF" class="su-button su-button-style-flat" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank" rel="noopener noreferrer"><span style="color:#FFFFFF;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cadf4;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="sui sui-google" style="font-size:13px;color:#FFFFFF"></i> Google Podcasts</span></a>
 
 <p> </p>
-<p><a href="https://soul-space.net/der-geborene-altruist-jakob-teil-2-von-2/">Und hier geht es zum 2. Teil des Interviews</a></p>
+<p><a href="https://thesharingspace.de/der-geborene-altruist-jakob-teil-2-von-2/">Und hier geht es zum 2. Teil des Interviews</a></p>
 
 
 <p></p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/der-geborene-altruist-jakob-teil-1-von-2/">Der geborene Altruist &#8211; Jakob &#8211; Teil 1 von 2</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/der-geborene-altruist-jakob-teil-1-von-2/">Der geborene Altruist &#8211; Jakob &#8211; Teil 1 von 2</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>1</itunes:season>	</item>
 	
 	<item>
         <title>Das ISS Experiment - Karo &amp; Joram</title>
-		<link>https://thesharing.space/iss-experiment-karo-joram/</link>
+		<link>https://thesharingspace.de/iss-experiment-karo-joram/</link>
 		<pubDate>Wed, 27 Mar 2019 20:12:35 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-02-26t20:57:37+00:00-e86983e5923e3bb</guid>
     	<description><![CDATA[Es gibt Menschen die an Projekten mitarbeiten die es schon so oder so ähnlich gab. Sie können sich an alten
@@ -1707,9 +1757,9 @@ Ich finde das Thema hochspannend und möchte herausfinden wie sie zu dem Projekt
 es so noch nie gab!
 
 Viel Spaß!]]></description><post-id xmlns="com-wordpress:feed-additions:1">98</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/iss-experiment-karo-joram/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/iss-experiment-karo-joram/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_4_das_iss_experiment_karo_joram.mp3" length="22030816" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/14/s/feed/c/mp3/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_4_das_iss_experiment_karo_joram.mp3" length="22030816" type="audio/mpeg"/>
 
 		<itunes:duration>00:25:56</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1731,9 +1781,9 @@ Ich finde das Thema hochspannend und möchte herausfinden wie sie zu dem Projekt
 es so noch nie gab!
 
 Viel Spaß!]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/GeM_Logo-e1584044323872.png?fit=400%2C400&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/GeM_Logo-e1584044323872.png"/>
 		<content:encoded><![CDATA[
-<h4>Space Origami &#8211; Ein Projekt bei dem DNA Stränge ins Weltall geschossen werden, um unsere Welt zu revolutionieren </h4>
+<h4 class="wp-block-heading">Space Origami &#8211; Ein Projekt bei dem DNA Stränge ins Weltall geschossen werden, um unsere Welt zu revolutionieren </h4>
 
 
 <div><span style="mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: Calibri;">Es gibt Menschen die an Projekten </span><span style="mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: Calibri;">mitarbeiten die es schon so oder so ähnlich gab. Sie können sich an alten</span><p></p>
@@ -1746,13 +1796,13 @@ Viel Spaß!]]></itunes:summary>
 
 
 <p></p>
-<p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/iss-experiment-karo-joram/">Das ISS Experiment &#8211; Karo &#038; Joram</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+<p>Der Beitrag <a href="https://thesharingspace.de/iss-experiment-karo-joram/">Das ISS Experiment &#8211; Karo &#038; Joram</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>1</itunes:season>	</item>
 	
 	<item>
         <title>Warum Netzwerke erschaffen? - Kati &amp; David</title>
-		<link>https://thesharing.space/netzwerke-erschaffen-kati-david/</link>
+		<link>https://thesharingspace.de/netzwerke-erschaffen-kati-david/</link>
 		<pubDate>Wed, 27 Mar 2019 20:04:48 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-02-26t20:57:36+00:00-681a9fee2753c08</guid>
     	<description><![CDATA[Kati und David sind ein besonderes Paar. Nicht nur studieren sie den Aufbau der Welt und wie man den Planeten nachhaltiger nutzt, sie machen auch viel ehrenamtliche Arbeit.      
@@ -1771,9 +1821,9 @@ Projekts das sich zum Ziel gesetzt hat ein Bildungszentrum für Kleinbauern in S
 
 Wir sprechen vor allem darüber warum sie so viel Freizeit in diese Tätigkeiten investiert haben. Und das völlig ohne Bezahlung.
 Was gibt ihnen diese Arbeit und wie wollen sie dieses Wissen später nutzen?]]></description><post-id xmlns="com-wordpress:feed-additions:1">97</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/netzwerke-erschaffen-kati-david/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/netzwerke-erschaffen-kati-david/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_3_warum_netzwerke_erschaffen_kati_david.mp3" length="19563954" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/15/s/feed/c/mp3/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_3_warum_netzwerke_erschaffen_kati_david.mp3" length="19563954" type="audio/mpeg"/>
 
 		<itunes:duration>00:23:00</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1797,9 +1847,9 @@ Projekts das sich zum Ziel gesetzt hat ein Bildungszentrum für Kleinbauern in S
 
 Wir sprechen vor allem darüber warum sie so viel Freizeit in diese Tätigkeiten investiert haben. Und das völlig ohne Bezahlung.
 Was gibt ihnen diese Arbeit und wie wollen sie dieses Wissen später nutzen?]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/GeM_Logo-e1584044323872.png?fit=400%2C400&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/GeM_Logo-e1584044323872.png"/>
 		<content:encoded><![CDATA[
-<h4>Die European Geography Association &#8211; Ein europäisches Netzwerk von geografie Studenten </h4>
+<h4 class="wp-block-heading">Die European Geography Association &#8211; Ein europäisches Netzwerk von geografie Studenten </h4>
 
 
 <div>
@@ -1810,13 +1860,13 @@ Was gibt ihnen diese Arbeit und wie wollen sie dieses Wissen später nutzen?]]><
 <p>Und alles von Studenten im Alter von 18-30 organisiert, alles!</p>
 <p>Zusätzlich hat Kati bereits einige Entwicklungsprojekte umgesetzt. Unter anderem hat sie in Kamerun ein <a href="https://www.betterplace.org/de/projects/43096">Lokales Abfallmanagementsystem</a> mit aufgebaut und ist Teil des <a href="https://www.betterplace.org/de/projects/43096">Toranam<br>Projekt</a>s das sich zum Ziel gesetzt hat ein Bildungszentrum für Kleinbauern in Südindien aufzubauen, die sich schon seit einiger Zeit häufig das Leben nehmen weil sie vom Industriesaatgut abhängig geworden sind und damit Schuldenberge angehäuft haben.</p>
 <p>Wir sprechen vor allem darüber warum sie so viel Freizeit in diese Tätigkeiten investiert haben. Und das völlig ohne Bezahlung.<br>Was gibt ihnen diese Arbeit und wie wollen sie dieses Wissen später nutzen?</p>
-</div><p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/netzwerke-erschaffen-kati-david/">Warum Netzwerke erschaffen? &#8211; Kati &#038; David</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+</div><p>Der Beitrag <a href="https://thesharingspace.de/netzwerke-erschaffen-kati-david/">Warum Netzwerke erschaffen? &#8211; Kati &#038; David</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>1</itunes:season>	</item>
 	
 	<item>
         <title>Intro</title>
-		<link>https://thesharing.space/intro-2/</link>
+		<link>https://thesharingspace.de/intro-2/</link>
 		<pubDate>Wed, 27 Mar 2019 19:43:03 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-02-26t20:57:35+00:00-9bc9c05f32739d4</guid>
     	<description><![CDATA[Ich bin Max, ein Mittzwanziger hungrig nach Antworten.
@@ -1830,9 +1880,9 @@ In diesem Podcast möchte ich meine Generation erforschen. Ich möchte herausfin
 Vor allem möchte ich von ihnen lernen. Ich möchte lernen, welche Alternativen wir zu Haus, Baum, Kinder und Geld noch haben um ein erfülltes Leben zu führen.
 
 Auf diese Reise möchte ich dich mitnehmen]]></description><post-id xmlns="com-wordpress:feed-additions:1">96</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/intro-2/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/intro-2/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_2_intro.mp3" length="4968569" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/17/s/feed/c/mp3/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_2_intro.mp3" length="4968569" type="audio/mpeg"/>
 
 		<itunes:duration>00:05:37</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1851,9 +1901,9 @@ In diesem Podcast möchte ich meine Generation erforschen. Ich möchte herausfin
 Vor allem möchte ich von ihnen lernen. Ich möchte lernen, welche Alternativen wir zu Haus, Baum, Kinder und Geld noch haben um ein erfülltes Leben zu führen.
 
 Auf diese Reise möchte ich dich mitnehmen]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/GeM_Logo-e1584044323872.png?fit=400%2C400&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/GeM_Logo-e1584044323872.png"/>
 		<content:encoded><![CDATA[
-<h4> Worum geht es hier eigentlich? </h4>
+<h4 class="wp-block-heading"> Worum geht es hier eigentlich? </h4>
 
 
 <div>Ich bin Max, ein Mittzwanziger hungrig nach Antworten.<p></p>
@@ -1861,22 +1911,22 @@ Auf diese Reise möchte ich dich mitnehmen]]></itunes:summary>
 <p>In diesem Podcast möchte ich meine Generation erforschen. Ich möchte herausfinden, ob es Menschen gibt die etwas gefunden haben was sie wirklich glücklich macht. Es werden oft Menschen sein die Arbeit ohne Geld verrichten, um das Leben anderer Menschen zu verbessern. Es werden Menschen mit vielen Ideen und Projekten sein die mich inspirieren.</p>
 <p>Vor allem möchte ich von ihnen lernen. Ich möchte lernen, welche Alternativen wir zu Haus, Baum, Kinder und Geld noch haben um ein erfülltes Leben zu führen.</p>
 <p>Auf diese Reise möchte ich dich mitnehmen</p>
-</div><p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/intro-2/">Intro</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+</div><p>Der Beitrag <a href="https://thesharingspace.de/intro-2/">Intro</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>1</itunes:season>	</item>
 	
 	<item>
         <title>Intro - Erster Entwurf</title>
-		<link>https://thesharing.space/intro-2-2/</link>
+		<link>https://thesharingspace.de/intro-2-2/</link>
 		<pubDate>Wed, 27 Mar 2019 19:31:44 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-02-26t20:57:35+00:00-19bb77006a0a19e</guid>
     	<description><![CDATA[Dies ist mein erstes Intro das ich vor fast einem Jahr aufgenommen habe. Lange bevor ich den Mut hatte tatsächlich einen Podcast zu veröffentlichen.
 
 Jedes Projekt muss irgendwo anfangen und zu diesem Anfang möchte ich dich mitnehmen.
 Die Folge kann übersprungen werden.]]></description><post-id xmlns="com-wordpress:feed-additions:1">95</post-id>
-		<atom:link rel="http://podlove.org/deep-link" href="https://thesharing.space/intro-2-2/#" />
+		<atom:link rel="http://podlove.org/deep-link" href="https://thesharingspace.de/intro-2-2/#" />
 		
-<enclosure url="https://maxwindt.github.io/TheSharingSpace/episodes/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_1_erster_entwurf_intro.mp3" length="15644733" type="audio/mpeg"/>
+<enclosure url="https://thesharingspace.de/podlove/file/19/s/feed/c/mp3/podcast_10001_gehirnmus_eines_mittzwanzigers_episode_1_erster_entwurf_intro.mp3" length="15644733" type="audio/mpeg"/>
 
 		<itunes:duration>00:18:20</itunes:duration>
 		<itunes:author>Max Schwindt</itunes:author>
@@ -1888,14 +1938,14 @@ Die Folge kann übersprungen werden.]]></description><post-id xmlns="com-wordpre
 
 Jedes Projekt muss irgendwo anfangen und zu diesem Anfang möchte ich dich mitnehmen.
 Die Folge kann übersprungen werden.]]></itunes:summary>
-		<itunes:image href="https://i0.wp.com/thesharing.space/wp-content/uploads/GeM_Logo-e1584044323872.png?fit=400%2C400&amp;ssl=1"/>
+		<itunes:image href="https://thesharingspace.de/wp-content/uploads/GeM_Logo-e1584044323872.png"/>
 		<content:encoded><![CDATA[
-<h4>Jedes Projekt muss irgendwo anfangen und zu diesem Anfang möchte ich dich mitnehmen. </h4>
+<h4 class="wp-block-heading">Jedes Projekt muss irgendwo anfangen und zu diesem Anfang möchte ich dich mitnehmen. </h4>
 
 
 <div>Dies ist mein erstes Intro das ich vor fast einem Jahr aufgenommen habe. Lange bevor ich den Mut hatte tatsächlich einen Podcast zu veröffentlichen.<p></p>
 <p>Jedes Projekt muss irgendwo anfangen und zu diesem Anfang möchte ich dich mitnehmen.<br>Die Folge kann übersprungen werden.</p>
-</div><p>Der Beitrag <a rel="nofollow" href="https://thesharing.space/intro-2-2/">Intro &#8211; Erster Entwurf</a> erschien zuerst auf <a rel="nofollow" href="https://thesharing.space">The Sharing Space</a>.</p>
+</div><p>Der Beitrag <a href="https://thesharingspace.de/intro-2-2/">Intro &#8211; Erster Entwurf</a> erschien zuerst auf <a href="https://thesharingspace.de">The Sharing Space</a>.</p>
 ]]></content:encoded>
 		<itunes:season>1</itunes:season>	</item>
 	</channel>
