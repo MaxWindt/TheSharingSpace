@@ -25,7 +25,7 @@ jobs:
       - name: Download a file
         uses: carlosperate/download-file-action@v1
         with:
-          file-url: 'https://thesharing.space/feed/mp3/'
+          file-url: 'https://thesharingspace.de/feed/mp3/'
           # file-url: 'https://maxwindt.github.io/TheSharingSpace/feed.rss'
           file-name: 'mp3.rss'
           location: 'feed/.'
